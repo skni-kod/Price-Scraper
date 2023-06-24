@@ -1,0 +1,234 @@
+Sklep;Nazwa;Model;Cena;Data;Złącza;Czas reakcji;Przekątna;Rozdzielczość;Matryca
+MediaMarkt;SAMSUNG;Odyssey G5;999;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;SAMSUNG;LS24C310EAUXEN 24;489;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"24""";1920 x 1080 (Full HD);IPS
+MediaMarkt;IIYAMA;G-Master GB2770HSU-B5;959;2023.06.24;1x DisplayPort, 1x HDMI;0.8 (MPRT);"27""";1920 x 1080 (Full HD);Fast IPS IGZO
+MediaMarkt;HP;V24i FHD;479;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M27f FHD;719;2023.06.24;1x D-Sub (VGA), 2x HDMI;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;IIYAMA;G-Master G2450HS-B1;539;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;UltraGear 27GP850P-B;1599;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"27""";2560 x 1440 (Quad HD);Nano IPS
+MediaMarkt;SAMSUNG;Odyssey G4;1329;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"25""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;TUF Gaming;1499;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;VY279HE 27;759;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;1 (MPRT);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;IIYAMA;G-Master GB2770QSU-B5;1549;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;0.5 (MPRT);"27""";2560 x 1440 (Quad HD);Fast IPS
+MediaMarkt;SAMSUNG;Odyssey G5;1649;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G7;2469;2023.06.24;1x HDMI 2.0, 2x DisplayPort 1.4;1 (GTG);"26.9""";2560 x 1440 (Quad HD);VA
+MediaMarkt;LG;24GN60R-B 23.8;749;2023.06.24;1x DisplayPort 1.4, 1x HDMI;1 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;VZ24EHE 23.8;629;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;1 (MPRT);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M24fwa FHD;669;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;32s FHD;999;2023.06.24;1x D-Sub (VGA), 1x HDMI;5;"31.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;LS32BM700UPXEN 32;1449;2023.06.24;2x HDMI 2.0;4 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;SAMSUNG;LS24C364EAUXEN 24;499;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;4 (GTG);"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;24MP60G-B 23.8;599;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;1 (MBR);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;LU28R550UQPXEN 28;1259;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;4 (GTG);"28""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;OMEN;27c QHD;1999;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (GTG);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;SAMSUNG;LF27T350FHRXEN 27;729;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;29WP500-B 29;859;2023.06.24;2x HDMI;5 (GTG);"29""";2560 x 1080 (UltraWide Full HD);IPS
+MediaMarkt;ASUS;TUF Gaming;1149;2023.06.24;1 x DisplayPort 1.2, 1x DVI-D Dual Link, 2x HDMI 2.0;1 (MPRT), 4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;V22e 21.5;429;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5;"21.5""";1920 x 1080 (Full HD);TN
+MediaMarkt;LENOVO;L27i-30 27;649;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;4 (tryb ekstremalny), 6 (tryb normalny);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;TUF Gaming;999;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 1.4;1 (MPRT);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;LC27R500FHPXEN 27;999;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;4;"26.9""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;M24f FHD;679;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;34WP75CP-B 34;1899;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI;5 (GTG), 1 (MBR);"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;PEAQ;PMO C241-VFH;699;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;8;"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;SAMSUNG;LF24T350FHRXEN 24;679;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"24""";1920 x 1080 (Full HD);IPS
+MediaMarkt;IIYAMA;G-Master Black;699;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;27UP85NP-W 27;1769;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;IIYAMA;G-Master GB2470HSU-B1;879;2023.06.24;1x DisplayPort, 1x HDMI;0.8 (MPRT);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;X27 FHD;929;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;UltraGear 27GQ50F-B;999;2023.06.24;1 x DisplayPort 1.2, 2x HDMI;5 (GTG), 1 (MBR);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;SAMSUNG;LC24F390FHRXEN 24;689;2023.06.24;1x D-Sub (VGA), 1x HDMI;4;"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;LENOVO;G27qc-30 27;1259;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;SAMSUNG;LU28R550UQRXEN 28;1699;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;4 (GTG);"28""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;MSI;Optix G272CQP;1549;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;SAMSUNG;Odyssey G3;1149;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 2.0;1 (MPRT);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;27mq QHD;1069;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;MSI;Optix G241V;749;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1;"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;24MP400-B 23.8;549;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G3;999;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;ASUS;TUF Gaming;1299;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;5 (GTG);"28""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;LG;29WP60G-B 29;899;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 1x HDMI;1 (MBR);"29""";2560 x 1080 (UltraWide Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G5;2149;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;SAMSUNG;LS27CM500EUXDU 27;999;2023.06.24;2x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;X27c FHD;1039;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (MPRT);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;SAMSUNG;Odyssey G5;2199;2023.06.24;1x DisplayPort, 1x HDMI;1 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;ASUS;ROG Swift;3729;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (GTG);"24.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;32SQ780S-W 31.5;2199;2023.06.24;1x DisplayPort przez USB-C, 2x HDMI;5 (GTG);"31.5""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;HP;M24 Webcam;999;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G3;949;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 2.0;1 (MPRT);"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;M24fd FHD;819;2023.06.24;1x D-Sub (VGA), 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SONY;INZONE M9;4899;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI 2.1;1 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;LG;32UN880P-B 31.5;2499;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 2x HDMI;5 (GTG);"31.5""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;SAMSUNG;Odyssey G7;2499;2023.06.24;1x HDMI 2.0, 2x DisplayPort 1.4;1 (GTG);"31.5""";2560 x 1440 (Quad HD);VA
+MediaMarkt;MSI;Optix G24C6P;1099;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;1;"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;32GN600-B 31.5;1299;2023.06.24;1x DisplayPort, 2x HDMI;1 (MBR);"31.5""";2560 x 1440 (Quad HD);VA
+MediaMarkt;LG;38GL950G-B 37.5;8097;2023.06.24;1x DisplayPort 1.4, 1x HDMI;1 (GTG);"37.5""";3840 x 1600 (UltraWide QHD);Nano IPS
+MediaMarkt;SAMSUNG;Odyssey G5;1699;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (MPRT);"32""";2560 x 1440 (Quad HD);VA
+MediaMarkt;HP;M27fwa FHD;799;2023.06.24;1x D-Sub (VGA), 2x HDMI 1.4;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;TUF Gaming;1899;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;HP;M24fe FHD;639;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;OMEN;27u 4K;3199;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0, 1x HDMI 2.1;1 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;HP;M27fw FHD;729;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M34d WQHD;1799;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 2.0;5 (GTG);"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;SAMSUNG;LS34J550WQRXEN 34.1;1879;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4, 1x HDMI 2.0;4;"34.1""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;SONY;INZONE M3;3299;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI 2.1;1 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M27 Webcam;1239;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;ASUS;ROG Strix;5399;2023.06.24;1x DisplayPort 1.4, 3x HDMI 2.0;4 (GTG);"43""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;LG;32GN550-B 31.5;1479;2023.06.24;1x DisplayPort, 2x HDMI;1 (MBR);"31.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;SAMSUNG;Smart M8;3779;2023.06.24;1x DisplayPort przez USB-C, 1x micro HDMI 2.0;4 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;SAMSUNG;Odyssey G4;1299;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;LS32A700 32;1649;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;5;"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;HP;U32 4K;2179;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 1x HDMI 2.0;4 (GTG);"31.5""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;SAMSUNG;M7 LS32BM701UUXEN;1759;2023.06.24;2x HDMI 2.0;4 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;SAMSUNG;Odyssey G5;2499;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (GTG);"32""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;MSI;Optix MPG321QRF-QD;3989;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI 2.0;1 (GTG);"32""";2560 x 1440 (Quad HD);Rapid IPS
+MediaMarkt;SAMSUNG;Odyssey G5;1799;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (MPRT);"32""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;346E2LAE/00 34;1549;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 2.0;1;"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;PHILIPS;222S1AE/00 21.5;699;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;221V8A/00 21.5;419;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"21.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;241V8L/00 23.8;469;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;241V8LA/00 23.8;479;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;243V7QDSB/00 23.8;479;2023.06.24;1x D-Sub (VGA), 1x DVI-D, 1x HDMI;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;242S9AL/00 23.8;549;2023.06.24;1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;273V7QDSB/00 27;579;2023.06.24;1x D-Sub (VGA), 1x DVI-D, 1x HDMI;4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;273V7QDAB/00 27;599;2023.06.24;1x D-Sub (VGA), 1x DVI-D, 1x HDMI;5;"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;271V8L/00 27;589;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;272B1G/00 27;879;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;242S9JAL/00 23.8;589;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;328B1/00 31.5;1889;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;4;"31.5""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;PHILIPS;346B1C/00 34;2139;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 2.0;4;"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;PHILIPS;243V7QJABF/00 23.8;539;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;272V8LA/00 27;639;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;221V8/00 21.5;399;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"21.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;32E1N3600LA/00 31.5;1399;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 2x HDMI 1.4;4;"31.5""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;221B7QPJKEB/00 21.5;799;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"21.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;275S9JAL/00 27;859;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;4 (GTG);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;242B1H 23.8;1029;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;24E1N3300A/00 23.8;929;2023.06.24;1x DisplayPort przez USB-C, 1x HDMI 1.4;1 (MPRT), 4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;275B1H/00 27;1249;2023.06.24;1 x DisplayPort 1.2, 1x DVI-D, 1x HDMI 1.4;4 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;27M1C5500VL/00 27;1089;2023.06.24;1x DisplayPort 1.4, 2x HDMI 2.0;1 (MPRT), 4 (GTG);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;242V8LA/00 23.8;519;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;4 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;275S1AE/00 27;999;2023.06.24;1 x DisplayPort 1.2, 1x DVI-D, 1x HDMI 1.4;4 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;328E1CA/00 31.5;1709;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;4;"31.5""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;PHILIPS;24E1N5300HE/00 23.8;1099;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;1 (MPRT), 4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;27M2C5500W/00 27;1819;2023.06.24;2x DisplayPort 1.4, 2x HDMI 2.0;0.5 (MPRT), 1 (GTG);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;24M1N3200VS/00 23.8;699;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (MPRT);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;241E1SC/00 23.6;549;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;345E2AE/00 34;1699;2023.06.24;1x DisplayPort, 2x HDMI;4;"34""";3440 x 1440 (UltraWide QHD);IPS
+MediaMarkt;PHILIPS;27E1N3300A/00 27;899;2023.06.24;1x DisplayPort przez USB-C, 1x HDMI 1.4;1 (MPRT), 4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;162B9T/00 15.6;1099;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"15.6""";1366 x 768 (HD);TN
+MediaMarkt;PHILIPS;272S1M/00 27;1029;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;272B7QUPBEB/00 27;1629;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;243B9H/00 23.8;1119;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;241B7QUBHEB/00 23.8;1409;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;273B9/00 27;1019;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 1.4;4;"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;328P6AUBREB/00 31.5;2029;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;4;"31.5""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;16B1P3302D/00 15.6;1089;2023.06.24;2x DisplayPort przez USB-C;4 (GTG);"15.6""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;279P1/00 27;1949;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI 2.0;4;"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;PHILIPS;272S1MH/00 27;1029;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;276B9H/00 27;1499;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4;"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;27E1N5600HE/00 27;1509;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;1 (MPRT), 4 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;271E1SCA/00 27;739;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;40B1U5600/00 40;2779;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;4;"40""";3440 x 1440 (UltraWide QHD);IPS
+MediaMarkt;PHILIPS;172B9T/00 17;1519;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;1 (GTG);"17""";1280 x 1024 (SXGA);TN
+MediaMarkt;PHILIPS;34B1U5600CH/00 34;2879;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 1x HDMI 2.0;4 (GTG);"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;PHILIPS;34M2C7600MV/00 34;6389;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 2x HDMI 2.1;2.5;"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;PHILIPS;241B7QUPBEB/00 23.8;1119;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DisplayPort przez USB-C, 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;27E1N5300AE/00 27;979;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;1 (MPRT), 4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;24B1U5301H/00 23.8;1709;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;241E1SCA/00 23.6;619;2023.06.24;1x D-Sub (VGA), 1x HDMI;4 (GTG);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;243B1JH/00 23.8;1909;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;27M1F5500P/00 27;2779;2023.06.24;2x DisplayPort 1.4, 2x HDMI 2.0;1 (GTG);"27""";2560 x 1440 (Quad HD);Nano IPS
+MediaMarkt;PHILIPS;242B9TN/00 23.8;1539;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;275V8LA/00 27;789;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;4 (GTG);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;PHILIPS;32M1N5800A/00 31.5;3799;2023.06.24;2x DisplayPort 1.4, 2x HDMI 2.1;1 (MPRT);"31.5""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;PHILIPS;243B1/00 23.8;1299;2023.06.24;1x DisplayPort 1.4, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;245B1/00 23.8;929;2023.06.24;1 x DisplayPort 1.2, 1x DVI-D, 1x HDMI 1.4;4 (GTG);"23.8""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;223S7EHMB/00 21.5;889;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"21.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;498P9Z/00 48.8;4959;2023.06.24;1x DisplayPort 1.4, 3x HDMI 2.0;4 (GTG);"48.8""";5120 x 1440 (Dual QHD);VA
+MediaMarkt;PHILIPS;276E8VJSB/00 27;1239;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;PHILIPS;27M1F5800/00 27;3209;2023.06.24;2x DisplayPort 1.4, 2x HDMI 2.1;1 (GTG);"27""";3840 x 2160 (UHD 4K);Nano IPS
+MediaMarkt;PHILIPS;24M1N3200VA/00 23.8;749;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (MPRT);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;275E1S/00 27;829;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;4 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;242B1G 23.8;929;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x DVI-D, 1x HDMI 1.4;4 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;272E2FA/00 27;729;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;1 (MPRT), 4 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;PHILIPS;272S9JAL/00 27;669;2023.06.24;1 x DisplayPort 1.2, 1x D-Sub (VGA), 1x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;PHILIPS;276B9/00 27;1259;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4;"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;PHILIPS;16B1P3302/00 15.6;1199;2023.06.24;1x DisplayPort przez USB-C;4 (GTG);"15.6""";1920 x 1080 (Full HD);IPS
+MediaMarkt;APPLE;Studio Display;8499;2023.06.24;1x Thunderbolt 3;;"27""";5120 x 2880 (5K);Retina
+MediaMarkt;APPLE;Studio Display;9999;2023.06.24;1x Thunderbolt 3;;"27""";5120 x 2880 (5K);Retina
+MediaMarkt;SAMSUNG;Odyssey G3;669;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;MSI;Optix G24C4;889;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;1 (MPRT);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;IIYAMA;G-Master GB2560HSU-B3;979;2023.06.24;1x DisplayPort, 1x HDMI;0.5 (MPRT);"24.5""";1920 x 1080 (Full HD);TN
+MediaMarkt;LENOVO;L27m-30 27;899;2023.06.24;1x D-Sub (VGA), 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (tryb ekstremalny);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G3;1049;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"24""";1920 x 1080 (Full HD);VA
+MediaMarkt;OMEN;25i FHD;999;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (MPRT);"24.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;LC24RG50FZRXEN 23.5;1049;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;4 (GTG);"23.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;SAMSUNG;LC27R500FHRXEN 26.9;999;2023.06.24;1x D-Sub (VGA), 1x HDMI;4;"26.9""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;UltraGear 27GP850-B;1829;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"27""";2560 x 1440 (Quad HD);Nano IPS
+MediaMarkt;SAMSUNG;SR35 LS24R35AFHUXEN;529;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;24mq QHD;839;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5;"23.8""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;LENOVO;Q24i-1L 23.8;629;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;4 (tryb ekstremalny), 6 (tryb normalny);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M22f FHD;589;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"21.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;24GN600-B 23.8;729;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;27MP60G-B 27;639;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;1 (MBR);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;MSI;Optix AG321CR;1599;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4, 1x HDMI 2.0;1 (MPRT), 4 (GTG);"31.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;LENOVO;G34w-10 34;1759;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (MPRT);"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;LENOVO;G27q-20 27;1359;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;LG;27GN800-B 27;1799;2023.06.24;1x DisplayPort, 2x HDMI;1 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;XIAOMI;Mi 34;2499;2023.06.24;2x DisplayPort 1.4, 2x HDMI 2.0;4;"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;LENOVO;G24-10 24;749;2023.06.24;1x DisplayPort, 1x HDMI;1 (tryb ekstremalny);"23.6""";1920 x 1080 (Full HD);TN
+MediaMarkt;MSI;Optix G24C6;999;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;1 (MPRT), 4 (GTG);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;27UL550-W 27;1399;2023.06.24;1x DisplayPort, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;LENOVO;G24e-20 23.8;659;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (MPRT);"23.8""";1920 x 1080 (Full HD);VA
+MediaMarkt;IIYAMA;G-Master GB2770QSU-B1;1699;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;0.5 (MPRT);"27""";2560 x 1440 (Quad HD);Fast IPS
+MediaMarkt;LG;29WN600-W 29;1089;2023.06.24;1 x DisplayPort 1.2, 2x HDMI;5 (GTG);"29""";2560 x 1080 (UltraWide Full HD);IPS
+MediaMarkt;OMEN;X 27;2199;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1;"27""";2560 x 1440 (Quad HD);TN
+MediaMarkt;MSI;Oculux NXG253R;2499;2023.06.24;1x DisplayPort 1.4, 2x HDMI 2.0;1 (GTG);"24.5""";1920 x 1080 (Full HD);Rapid IPS
+MediaMarkt;LENOVO;Q27h-10 27;1399;2023.06.24;1 x DisplayPort 1.2, 1x DisplayPort przez USB-C, 1x HDMI 1.4;4 (tryb ekstremalny);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;HP;OMEN X;1799;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1;"24.5""";1920 x 1080 (Full HD);TN
+MediaMarkt;LG;27UL650-W 27;1597;2023.06.24;1x DisplayPort, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;HP;X24c FHD;749;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;4 (GTG);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;27UP850-W 27;1899;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;przenośny;do gier;1899;2023.06.24;1x DisplayPort przez USB-C, 1x micro HDMI;3 (GTG);"15.6""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G5;1349;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;1 (MPRT);"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;SAMSUNG;LS32AM700 32;1799;2023.06.24;1x DisplayPort przez USB-C, 2x HDMI 2.0;8 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;SAMSUNG;Odyssey G7;2999;2023.06.24;1x HDMI 2.0, 2x DisplayPort 1.4;1 (GTG);"26.9""";2560 x 1440 (Quad HD);VA
+MediaMarkt;HP;M27f FHD;717;2023.06.24;1x D-Sub (VGA), 2x HDMI;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HUAWEI;MateView GT;2199;2023.06.24;1x DisplayPort, 2x HDMI;4;"34""";3440 x 1440 (UltraWide QHD);VA
+MediaMarkt;SAMSUNG;LS32BM700UUXEN 32;1899;2023.06.24;2x HDMI 2.0;4 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;IIYAMA;G-Master GB3461WQSU-B1;2199;2023.06.24;2x DisplayPort, 2x HDMI;1 (MPRT);"34""";3440 x 1440 (UltraWide QHD);IPS
+MediaMarkt;LG;24TN510S-PZ 23.6;1099;2023.06.24;2x HDMI;14 (GTG);"23.6""";1366 x 768 (HD);WVA
+MediaMarkt;SAMSUNG;LC27T550FDRXEN 27;1199;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;4 (GTG);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;PEAQ;PMO S320-IQC;1199;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;5;"31.5""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;ACER;XF240QSbiipr 23.6;799;2023.06.24;1x DisplayPort, 2x HDMI;1;"23.6""";1920 x 1080 (Full HD);TN
+MediaMarkt;LG;27UP600-W 27;1399;2023.06.24;1x DisplayPort, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;IIYAMA;G-Master G2466HSU-B1;829;2023.06.24;1x DisplayPort, 2x HDMI;1 (MPRT);"23.6""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;UltraGear 27GP750-B;1499;2023.06.24;1x DisplayPort 1.4, 2x HDMI;1 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;24f (2XN60AA);799;2023.06.24;1x D-Sub (VGA), 1x HDMI;5;"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;IIYAMA;XB2779QQS-S1 27;3149;2023.06.24;2x DisplayPort, 3x HDMI;4;"27""";5120 x 2880 (5K);IPS
+MediaMarkt;LG;34WP65G-B 34;1499;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 1x HDMI;1 (MBR);"34""";2560 x 1080 (UltraWide Full HD);IPS
+MediaMarkt;LG;27UP650-W 27;1949;2023.06.24;1x DisplayPort, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;MSI;Optix G242;1049;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1;"23.8""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;UltraGear 27GL850-B;2147;2023.06.24;1x DisplayPort, 2x HDMI;1;"27""";2560 x 1440 (Quad HD);Nano IPS
+MediaMarkt;EIZO;FlexScan EV2456-BK;2147;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x DVI-D, 1x HDMI;5 (GTG);"24.1""";1920 x 1200 (WUXGA);IPS
+MediaMarkt;MSI;Optix G27C4;1099;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;1 (MPRT);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;LG;32MN500M-B 31.5;1097;2023.06.24;2x HDMI;5 (GTG);"31.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;HP;M32f FHD;989;2023.06.24;1x D-Sub (VGA), 2x HDMI 1.4;7 (GTG);"31.5""";1920 x 1080 (Full HD);VA
+MediaMarkt;HP;X34 QHD;1849;2023.06.24;1x DisplayPort 1.4, 1x HDMI 2.0;1 (GTG);"34""";3440 x 1440 (UltraWide QHD);IPS
+MediaMarkt;LG;27MP450-B 27;739;2023.06.24;1x D-Sub (VGA), 1x HDMI;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Smart M7;1899;2023.06.24;2x HDMI 2.0;8 (GTG);"32""";3840 x 2160 (UHD 4K);VA
+MediaMarkt;HUAWEI;MateView GT;1299;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;4;"27""";2560 x 1440 (Quad HD);VA
+MediaMarkt;LG;32GK850G-B;2797;2023.06.24;1x DisplayPort, 1x HDMI;5;"31.5""";2560 x 1440 (Quad HD);VA
+MediaMarkt;OMEN;27i QHD;1899;2023.06.24;1x DisplayPort, 1x HDMI;1 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;LG;32MP60G-B 31.5;1029;2023.06.24;1x D-Sub (VGA), 1x DisplayPort, 1x HDMI;1 (MBR);"31.5""";1920 x 1080 (Full HD);IPS
+MediaMarkt;SAMSUNG;Odyssey G3;1199;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 1.4;1 (MPRT);"27""";1920 x 1080 (Full HD);VA
+MediaMarkt;MSI;Pro MP271;999;2023.06.24;1x D-Sub (VGA), 1x HDMI 1.4;5 (GTG);"27""";1920 x 1080 (Full HD);IPS
+MediaMarkt;LG;24QP500-B 23.8;899;2023.06.24;1x DisplayPort 1.4, 2x HDMI;5 (GTG);"23.8""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;LG;27UP850N-W 27;1699;2023.06.24;1x DisplayPort, 1x DisplayPort przez USB-C, 2x HDMI;5 (GTG);"27""";3840 x 2160 (UHD 4K);IPS
+MediaMarkt;ASUS;VP28UQGL 28;1299;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 2.0;1 (GTG);"28""";3840 x 2160 (UHD 4K);TN
+MediaMarkt;HP;2K QHD;1249;2023.06.24;1 x DisplayPort 1.2, 1x HDMI 2.0;4 (GTG);"27""";2560 x 1440 (Quad HD);IPS
+MediaMarkt;LG;28TN515S-PZ 27.5;1099;2023.06.24;2x HDMI;8 (GTG);"27.5""";1366 x 768 (HD);VA
+MediaMarkt;LG;34WN650-W 34;1699;2023.06.24;1x DisplayPort, 2x HDMI;5 (GTG);"34""";2560 x 1080 (UltraWide Full HD);IPS
+MediaMarkt;SAMSUNG;LU28E570DSL/EN 28;1267;2023.06.24;1x DisplayPort, 2x HDMI;1;"28""";3840 x 2160 (UHD 4K);TN
+MediaMarkt;SAMSUNG;LC24RG50FQRXEN 23.5;949;2023.06.24;1 x DisplayPort 1.2, 2x HDMI 1.4;4 (GTG);"23.5""";1920 x 1080 (Full HD);VA

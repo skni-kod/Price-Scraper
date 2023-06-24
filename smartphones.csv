@@ -1,0 +1,696 @@
+Sklep;Nazwa;Model;Cena;Data;Ekran;Procesor;Pamięć RAM;Pamięć wbudowana
+MediaMarkt;SAMSUNG;;4199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+128GB Czarny SM-S901BZKDEUE;2999;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;SAMSUNG;M23 5G 4GB+128GB Zielony SM-M236BZGGEUE;899;2023.06.24;"6.6"" (1080 x 2408, TFT, Dotykowy)";Qualcomm Snapdragon 750G;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro 128GB Gwiezdna;5399;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;SAMSUNG;;649;2023.06.24;"6.6"" (1080 x 2040, Dotykowy, PLS)";Samsung Exynos 850;4 GB;64 GB
+MediaMarkt;APPLE;14 Pro 128GB Głęboka;5449;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Pro 128GB;5449;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;SAMSUNG;M23 5G 4GB+128GB Niebieski SM-M236BLBGEUE;899;2023.06.24;"6.6"" (1080 x 2408, TFT, Dotykowy)";Qualcomm Snapdragon 750G;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro 128GB;5449;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;SAMSUNG;;649;2023.06.24;"6.6"" (1080 x 2040, Dotykowy, PLS)";Samsung Exynos 850;4 GB;64 GB
+MediaMarkt;APPLE;14 128GB;4249;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;13 mini 128GB;3439;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;11 64GB;2399;2023.06.24;"6.1"" (828 x 1792, Dotykowy, IPS, Liquid Retina HD)";Apple A13 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;14 Pro Max 128GB Gwiezdna;6049;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;13 128GB Księżycowa;3919;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 128GB Księżycowa;4249;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Pro 256GB Gwiezdna;6239;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;11 64GB;2399;2023.06.24;"6.1"" (828 x 1792, Dotykowy, IPS, Liquid Retina HD)";Apple A13 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;13 mini 128GB Księżycowa;3439;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 128GB Głęboka;6239;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;13 128GB;3919;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;11 128GB;2799;2023.06.24;"6.1"" (828 x 1792, Dotykowy, IPS, Liquid Retina HD)";Apple A13 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;13 128GB;3919;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;MOTOROLA;;999;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, P-OLED)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;MOTOROLA;;799;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;XIAOMI;Note;1099;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 685;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 12 Pro;1899;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;SAMSUNG;M33;1369;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, PLS TFT LCD)";Samsung Exynos 1280;6 GB;128 GB
+MediaMarkt;SAMSUNG;S23;6199;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;A54;2199;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, Super AMOLED, Infinity-O)";Samsung Exynos 1380;8 GB;128 GB
+MediaMarkt;REALME;;999;2023.06.24;"6.72"" (1080 x 2400, Dotykowy, IPS)";MediaTek Helio G88;8 GB;256 GB
+MediaMarkt;XIAOMI;Note;1299;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;SAMSUNG;S21 FE;2699;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;6 GB;128 GB
+MediaMarkt;OPPO;5G czarny;1299;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 900;8 GB;128 GB
+MediaMarkt;SAMSUNG;;4399;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;S20 FE;2369;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;OPPO;;999;2023.06.24;"6.59"" (1080 x 2412, Dotykowy)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;XIAOMI;;449;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;3 GB;32 GB
+MediaMarkt;APPLE;11 128GB;2799;2023.06.24;"6.1"" (828 x 1792, Dotykowy, IPS, Liquid Retina HD)";Apple A13 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;13 128GB;3869;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;13 mini 128GB;3389;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 256GB Gwiezdna;6999;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 Pro Max 128GB;6189;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;12 128GB;3649;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Plus 128GB;4899;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 256GB;6949;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;SAMSUNG;M23 5G 4GB+128GB Różowy SM-M236BIDGEUE;899;2023.06.24;"6.6"" (1080 x 2408, TFT, Dotykowy)";Qualcomm Snapdragon 750G;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 256GB;6949;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Pro 256GB;6189;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;12 64GB;3399;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;12 64GB;3289;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;13 mini 128GB;3579;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;13 mini 256GB;4109;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;SE (3. generacji) 128GB;2989;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;12 64GB;3349;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;14 256GB;4849;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Plus 128GB;4849;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;13 mini 128GB;3389;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 Plus 128GB Księżycowa;4999;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;SAMSUNG;A54;2199;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, Super AMOLED, Infinity-O)";Samsung Exynos 1380;8 GB;128 GB
+MediaMarkt;APPLE;13 256GB Księżycowa;4579;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 128GB;3939;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;13 mini 256GB Księżycowa;4109;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;12 128GB;3689;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;SE (3. generacji) 64GB Księżycowa;2589;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;14 256GB;4849;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;12 64GB;3339;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;13 256GB;4529;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;XIAOMI;;399;2023.06.24;"6.53"" (720 x 1600, Dotykowy)";MediaTek Helio G25;2 GB;32 GB
+MediaMarkt;OPPO;;1499;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;SAMSUNG;S23;6899;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;512 GB
+MediaMarkt;SAMSUNG;A34;1699;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;XIAOMI;Note 12 Pro;1899;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;APPLE;13 256GB;4579;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Pro Max 128GB;6239;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;SE (3. generacji) 128GB Księżycowa;2989;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+128GB Różowe złoto SM-S901BIDDEUE;2999;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;APPLE;13 256GB;4549;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;SAMSUNG;A34;1699;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;APPLE;SE (3. genercji) 64GB;2649;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;12 64GB;3449;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;14 256GB;4849;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;13 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;12 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;REALME;;1129;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 512GB;8299;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 mini 128GB;3599;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 256GB;5199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 Pro Max 1TB Głęboka;9769;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;MOTOROLA;;699;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;MOTOROLA;;399;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Unisoc T606;2 GB;64 GB
+MediaMarkt;OPPO;;1499;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+128GB Zielony SM-S901BZGDEUE;2999;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;SAMSUNG;;4399;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+256GB Czarny SM-S901BZKGEUE;3199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;SAMSUNG;A54;2199;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, Super AMOLED, Infinity-O)";Samsung Exynos 1380;8 GB;128 GB
+MediaMarkt;OPPO;X5 Pro;3999;2023.06.24;"6.7"" (1440 x 3216, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;SAMSUNG;S21 FE;2899;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;8 GB;256 GB
+MediaMarkt;SAMSUNG;S23;6199;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;OPPO;;699;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;SAMSUNG;S20 FE;2599;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;MOTOROLA;;499;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;XIAOMI;Note;1099;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 685;4 GB;128 GB
+MediaMarkt;MOTOROLA;;899;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;8 GB;128 GB
+MediaMarkt;SAMSUNG;;5299;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;OPPO;Pro 5G Grafitowy;2499;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 870;12 GB;256 GB
+MediaMarkt;SAMSUNG;A34;1699;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;MOTOROLA;G73;1299;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 930;8 GB;256 GB
+MediaMarkt;OPPO;N2 Flip;4199;2023.06.24;"6.8"" (1080 x 2520, Dotykowy, AMOLED)";MediaTek Dimensity 9000+;8 GB;256 GB
+MediaMarkt;MOTOROLA;30;4299;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 8+ Gen 1;12 GB;256 GB
+MediaMarkt;XIAOMI;;4799;2023.06.24;"6.36"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;INFINIX;12;949;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;8 GB;128 GB
+MediaMarkt;SAMSUNG;A54;2199;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, Super AMOLED, Infinity-O)";Samsung Exynos 1380;8 GB;128 GB
+MediaMarkt;MOTOROLA;E40 4GB+64GB Różowy;699;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Unisoc T700;4 GB;64 GB
+MediaMarkt;SAMSUNG;A33 5G 6GB+128GB Czarny SM-A336BZKGEUE;1749;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";;6 GB;128 GB
+MediaMarkt;SONY;10 IV;1929;2023.06.24;"6"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+256GB Zielony SM-S901BZGGEUE;3199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;SAMSUNG;;4399;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;S21 FE;2899;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;8 GB;256 GB
+MediaMarkt;SAMSUNG;;4399;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;POCO;;1299;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 695;8 GB;256 GB
+MediaMarkt;OPPO;;699;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;128 GB
+MediaMarkt;MOTOROLA;;599;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS, Max Vision)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;XIAOMI;;549;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;3 GB;64 GB
+MediaMarkt;REALME;;1299;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;SAMSUNG;M33;1599;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, PLS TFT LCD)";Samsung Exynos 1280;6 GB;128 GB
+MediaMarkt;OPPO;;2299;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 900;8 GB;256 GB
+MediaMarkt;SAMSUNG;S21 FE;2699;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;6 GB;128 GB
+MediaMarkt;HUAWEI;50;4699;2023.06.24;"6.74"" (1212 x 2616, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;SAMSUNG;;5799;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;512 GB
+MediaMarkt;SAMSUNG;;4199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+256GB Różowe złoto SM-S901BIDGEUE;3199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;SAMSUNG;;5299;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;;5799;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;512 GB
+MediaMarkt;SAMSUNG;S23;6899;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;512 GB
+MediaMarkt;INFINIX;;499;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;REALME;Pro+;2199;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, OLED)";MediaTek Dimensity 7050;12 GB;512 GB
+MediaMarkt;APPLE;12 128GB;3619;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;XIAOMI;;599;2023.06.24;"6.79"" (1080 x 2460, Dotykowy)";MediaTek Helio G88;4 GB;128 GB
+MediaMarkt;XIAOMI;Note;999;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;6 GB;128 GB
+MediaMarkt;APPLE;SE (3. generacji) 64GB;2599;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;14 256GB;4849;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 Plus 128GB;4849;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 512GB Głęboka;8299;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro 256GB;6189;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;XIAOMI;;599;2023.06.24;"6.79"" (1080 x 2460, Dotykowy)";MediaTek Helio G88;4 GB;128 GB
+MediaMarkt;APPLE;14 Pro 1TB Gwiezdna;8649;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;14 Plus 256GB Księżycowa;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 Pro 512GB;7499;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 mini 256GB;4059;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Pro 512GB;7699;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro Max 512GB Gwiezdna;8299;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;XIAOMI;9C;429;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;3 GB;64 GB
+MediaMarkt;REALME;Pro;1799;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, OLED)";MediaTek Dimensity 7050;8 GB;256 GB
+MediaMarkt;INFINIX;20;649;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, IPS)";MediaTek Dimensity 810;4 GB;128 GB
+MediaMarkt;APPLE;12 64GB;3349;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;64 GB
+MediaMarkt;APPLE;13 256GB;5179;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;XIAOMI;Note;699;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 685;4 GB;64 GB
+MediaMarkt;APPLE;SE (3. generacji) 256GB;3599;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;OPPO;Czarny;499;2023.06.24;"6.52"" (720 x 1600, LCD, Dotykowy)";MediaTek Helio G35;4 GB;128 GB
+MediaMarkt;APPLE;14 Plus 256GB;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;SE (3. generacji) 128GB;2939;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;12 256GB;4129;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Plus 512GB Księżycowa;6789;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Plus 512GB;6899;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro 512GB Głęboka;7499;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Plus 512GB;6799;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 256GB;5139;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;12 128GB;3699;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 Plus 512GB;6899;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro 512GB Gwiezdna;7499;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 mini 512GB;5239;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;13 mini 512GB;5499;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;14 512GB;6199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Plus 512GB;6749;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Plus 256GB;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;13 mini 256GB;4059;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Pro Max 1TB;9489;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;14 512GB;6199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 512GB;5769;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;SE (3. generacji) 256GB Księżycowa;3599;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 512GB Księżycowa;5769;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;13 512GB;5769;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;12 256GB;4779;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Plus 256GB;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;12 256GB;4699;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 mini 512GB;5289;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;SE (3. generacji) 256GB;3779;2023.06.24;"4.7"" (750 x 1334, Dotykowy, IPS, Retina HD)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Plus 256GB;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;14 512GB;6399;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 512GB;6199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;12 128GB;4399;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;128 GB
+MediaMarkt;APPLE;14 128GB;4199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;13 mini 512GB;5539;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;12 256GB;4289;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;14 Plus 256GB;5499;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;12 256GB;4869;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 mini 256GB;4059;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 mini 512GB;5289;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;14 Pro Max 1TB;9599;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;14 512GB Księżycowa;6199;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 512GB;7099;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;13 512GB;5769;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;14 Pro Max 512GB;8299;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro 1TB;9299;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;13 512GB;6469;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;4 GB;512 GB
+MediaMarkt;APPLE;14 Plus 512GB;7749;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;14 Pro 1TB Głęboka;9369;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;1 TB
+MediaMarkt;REALME;Pro+;2199;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, OLED)";MediaTek Dimensity 7050;12 GB;512 GB
+MediaMarkt;APPLE;14 Plus 128GB;4949;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;MOTOROLA;30 Neo;1499;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;MOTOROLA;30 Neo;1499;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;XIAOMI;Note 12 Pro+;2199;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Mediatek Dimensity 1080;8 GB;256 GB
+MediaMarkt;POCO;Pro;1699;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;HAMMER;3 LTE Pomarańczowy;699;2023.06.24;"5.45"" (1440 x 720, Dotykowy, IPS)";MediaTek MTK6763;3 GB;32 GB
+MediaMarkt;SAMSUNG;XCover;1189;2023.06.24;"5.3"" (720 x 1480, Dotykowy, LCD TFT)";Samsung Exynos 850;4 GB;64 GB
+MediaMarkt;XIAOMI;Note;1299;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;HAMMER;3 Czarny;1099;2023.06.24;"6.2"" (720 x 1520, Dotykowy, IPS)";MTK6762V/CB;4 GB;64 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+128GB Lawendowy SM-S901BLVDEUE;2999;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;SAMSUNG;A34;1699;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";Mediatek Dimensity 1080;6 GB;128 GB
+MediaMarkt;HUAWEI;;849;2023.06.24;"6.75"" (720 x 1600, Dotykowy, LCD TFT)";;4 GB;128 GB
+MediaMarkt;HUAWEI;10;2599;2023.06.24;"6.78"" (1200 x 2652, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;MOTOROLA;;599;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS, Max Vision)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;vivo;;1399;2023.06.24;"6.44"" (1080 x 2408, Dotykowy, AMOLED)";MediaTek Dimensity 800;8 GB;128 GB
+MediaMarkt;MOTOROLA;40 Ultra;5499;2023.06.24;"6.9"" (1080 x 2640, P-OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;MOTOROLA;;899;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+256GB Biały SM-S901BZWGEUE;3199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;XIAOMI;;489;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";MediaTek Helio A22;2 GB;32 GB
+MediaMarkt;MOTOROLA;G73;1299;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 930;8 GB;256 GB
+MediaMarkt;MOTOROLA;;399;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Unisoc T606;2 GB;64 GB
+MediaMarkt;SAMSUNG;S23;8099;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;1 TB
+MediaMarkt;XIAOMI;;649;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;SONY;10 V;2299;2023.06.24;"6.1"" (1080 x 2520, Dotykowy)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;REALME;Pro;1799;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, OLED)";MediaTek Dimensity 7050;8 GB;256 GB
+MediaMarkt;MOTOROLA;;499;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;XIAOMI;;499;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";MediaTek Helio A22;2 GB;32 GB
+MediaMarkt;SAMSUNG;A14;959;2023.06.24;"6.6"" (1080 x 2400, LCD, Dotykowy, PLS)";MediaTek Helio G80;4 GB;64 GB
+MediaMarkt;ALCATEL;(2022) LTE Czarny;299;2023.06.24;"5"" (480 x 960, LCD, Dotykowy)";MediaTek MT6739;1 GB;16 GB
+MediaMarkt;REALME;;649;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";Unisoc T612;4 GB;64 GB
+MediaMarkt;MOTOROLA;;399;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Unisoc T606;2 GB;64 GB
+MediaMarkt;SAMSUNG;;4199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;128 GB
+MediaMarkt;HUAWEI;;1029;2023.06.24;"6.7"" (1080 x 2388, LCD, Dotykowy)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;HUAWEI;;739;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";;4 GB;64 GB
+MediaMarkt;NOKIA;;399;2023.06.24;"6.5"" (720 x 1600, TFT, Dotykowy)";Unisoc SC9863A;2 GB;32 GB
+MediaMarkt;vivo;8GB+128GB Niebieski (Midday Dream);999;2023.06.24;"6.58"" (1080 x 2408, Dotykowy)";MediaTek Helio G80;8 GB;128 GB
+MediaMarkt;MOTOROLA;;699;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";MediaTek Helio G85;4 GB;64 GB
+MediaMarkt;HUAWEI;;1099;2023.06.24;"6.8"" (1080 x 2388, Dotykowy, FullView)";;8 GB;128 GB
+MediaMarkt;HUAWEI;;1099;2023.06.24;"6.8"" (1080 x 2388, Dotykowy, FullView)";;8 GB;128 GB
+MediaMarkt;SAMSUNG;S23;6199;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;SAMSUNG;;5299;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;vivo;5G Czarny (Graphite Black);1439;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 12GB+256GB Czarny SM-S908BZKGEUE;6399;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;12 GB;256 GB
+MediaMarkt;XIAOMI;9C;599;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;2 GB;32 GB
+MediaMarkt;HUAWEI;Pocket Biały;3999;2023.06.24;"6.9"" (1188 x 2790, Dotykowy, OLED)";Qualcomm Snapdragon 888;8 GB;256 GB
+MediaMarkt;SONY;1 V;6499;2023.06.24;"6.5"" (1644 x 3840, Dotykowy)";Qualcomm Snapdragon 8 Gen 2;12 GB;256 GB
+MediaMarkt;OPPO;;2299;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 900;8 GB;256 GB
+MediaMarkt;MOTOROLA;30 Neo;1499;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;SONY;10 V;2299;2023.06.24;"6.1"" (1080 x 2520, Dotykowy)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;MOTOROLA;;699;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;ONEPLUS;;4299;2023.06.24;"6.7"" (1440 x 3216, Dotykowy, Super Fluid AMOLED)";Qualcomm Snapdragon 8 Gen 2;16 GB;256 GB
+MediaMarkt;MOTOROLA;40 Pro;4649;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 8 Gen 2;12 GB;256 GB
+MediaMarkt;DOOGEE;;1099;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;6 GB;64 GB
+MediaMarkt;MOTOROLA;40;2699;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, P-OLED)";MediaTek Dimensity 8020;8 GB;256 GB
+MediaMarkt;ALCATEL;(2022) LTE Niebieski;299;2023.06.24;"5"" (480 x 960, LCD, Dotykowy)";MediaTek MT6739;1 GB;16 GB
+MediaMarkt;INFINIX;7;399;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";Unisoc SC9863A;2 GB;64 GB
+MediaMarkt;REALME;;1269;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;POCO;;2049;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 870;6 GB;128 GB
+MediaMarkt;ONEPLUS;CE 2 Lite;999;2023.06.24;"6.59"" (1080 x 2412, Dotykowy, IPS)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;ULEFONE;Armor 14;1299;2023.06.24;"6.52"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;8 GB;128 GB
+MediaMarkt;SAMSUNG;A14;999;2023.06.24;"6.6"" (1080 x 2400, LCD, Dotykowy, PLS)";MediaTek Helio G80;4 GB;64 GB
+MediaMarkt;SAMSUNG;A14;959;2023.06.24;"6.6"" (1080 x 2400, LCD, Dotykowy, PLS)";MediaTek Helio G80;4 GB;64 GB
+MediaMarkt;OPPO;;699;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;REALME;;449;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";Unisoc T612;3 GB;32 GB
+MediaMarkt;OPPO;;699;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;128 GB
+MediaMarkt;TCL;;379;2023.06.24;"6"" (480 x 960, Dotykowy, IPS)";MediaTek MT6761;2 GB;32 GB
+MediaMarkt;REALME;;929;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, IPS)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;MOTOROLA;E40 4GB+64GB Szary;699;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Unisoc T700;4 GB;64 GB
+MediaMarkt;HAMMER;2 Eco Pomarańczowy;749;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek MTK6761;3 GB;32 GB
+MediaMarkt;REALME;;799;2023.06.24;;;6 GB;128 GB
+MediaMarkt;OPPO;Lite;1899;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;DOOGEE;;1199;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;8 GB;128 GB
+MediaMarkt;OPPO;Lite;1899;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;MOTOROLA;40;2699;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, P-OLED)";MediaTek Dimensity 8020;8 GB;256 GB
+MediaMarkt;XIAOMI;;399;2023.06.24;"6.53"" (720 x 1600, Dotykowy)";MediaTek Helio G25;2 GB;32 GB
+MediaMarkt;vivo;Niebieski (Sapphire Blue);499;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Mediatek Helio P35 (MT6765);3 GB;32 GB
+MediaMarkt;OPPO;;1239;2023.06.24;"6.56"" (720 x 1612, Dotykowy)";MediaTek Helio MT6833 5G;4 GB;128 GB
+MediaMarkt;vivo;8GB+128GB Czarny (Mirror Black);999;2023.06.24;"6.58"" (1080 x 2408, Dotykowy)";MediaTek Helio G80;8 GB;128 GB
+MediaMarkt;SAMSUNG;S21 FE;2699;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;6 GB;128 GB
+MediaMarkt;vivo;Czarny (Elegant Black);499;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Mediatek Helio P35 (MT6765);3 GB;32 GB
+MediaMarkt;HUAWEI;;879;2023.06.24;"6.75"" (720 x 1600, Dotykowy, LCD TFT)";;4 GB;128 GB
+MediaMarkt;REALME;;749;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";Unisoc T612;4 GB;128 GB
+MediaMarkt;SAMSUNG;S20 FE;2599;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;XIAOMI;;699;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;HUAWEI;;2149;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;HUAWEI;;1449;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;HUAWEI;11;3199;2023.06.24;"6.78"" (1200 x 2652, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;MOTOROLA;G82;1199;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, AMOLED)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;SAMSUNG;S22+ 5G 8GB+128GB Czarny SM-S906BZKDEUE;4999;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;SAMSUNG;;4199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;128 GB
+MediaMarkt;HUAWEI;;1299;2023.06.24;"6.95"" (1080 x 2376, Dotykowy, FullView)";;8 GB;128 GB
+MediaMarkt;SONY;10 V;2299;2023.06.24;"6.1"" (1080 x 2520, Dotykowy)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;XIAOMI;;3999;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;8 GB;256 GB
+MediaMarkt;HUAWEI;;5499;2023.06.24;"6.67"" (1220 x 2700, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+128GB Biały SM-S901BZWDEUE;2999;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;TCL;Szary;599;2023.06.24;"6.52"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G25;3 GB;32 GB
+MediaMarkt;XIAOMI;Note;1019;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;MOTOROLA;40 Pro;4649;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 8 Gen 2;12 GB;256 GB
+MediaMarkt;XIAOMI;;399;2023.06.24;"6.53"" (720 x 1600, Dotykowy)";MediaTek Helio G25;2 GB;32 GB
+MediaMarkt;vivo;;1129;2023.06.24;"6.58"" (1080 x 2408, LCD, Dotykowy)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;HUAWEI;;2049;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;vivo;;1199;2023.06.24;"6.58"" (1080 x 2408, LCD, Dotykowy)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;REALME;NEO 3;3299;2023.06.24;"6.7"" (1080 x 2412, AMOLED)";MediaTek Dimensity 8100 5G;12 GB;256 GB
+MediaMarkt;SAMSUNG;S21 FE;2699;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;6 GB;128 GB
+MediaMarkt;MOTOROLA;E20 2GB+32GB Grafitowy (Graphite Gray);399;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS, Max Vision)";Unisoc T606;2 GB;32 GB
+MediaMarkt;HUAWEI;9 SE Czarny;1339;2023.06.24;"6.78"" (1080 x 2388, Dotykowy, IPS)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;HUAWEI;10;2499;2023.06.24;"6.78"" (1200 x 2652, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;HUAWEI;;5499;2023.06.24;"6.67"" (1220 x 2700, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;REALME;;899;2023.06.24;"6.6"" (1080 x 2408, Dotykowy)";Unisoc T616;4 GB;128 GB
+MediaMarkt;XIAOMI;Note;1089;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 11 4GB+64GB Niebieski (Twilight Blue);1049;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;64 GB
+MediaMarkt;REALME;Pro;1399;2023.06.24;"6.6"" (1080 x 2412, Dotykowy)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;REALME;;919;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, IPS)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;SAMSUNG;S23;6199;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;HUAWEI;9 Czarny;2039;2023.06.24;"6.57"" (1080 x 2340, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;REALME;NEO 3;3299;2023.06.24;"6.7"" (1080 x 2412, AMOLED)";MediaTek Dimensity 8100 5G;12 GB;256 GB
+MediaMarkt;POCO;;919;2023.06.24;"6.58"" (1080 x 2160, Dotykowy)";MediaTek Helio G99;4 GB;128 GB
+MediaMarkt;HUAWEI;;1089;2023.06.24;"6.7"" (1080 x 2388, LCD, Dotykowy)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;SAMSUNG;;5799;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;512 GB
+MediaMarkt;SONY;1 V;6499;2023.06.24;"6.5"" (1644 x 3840, Dotykowy)";Qualcomm Snapdragon 8 Gen 2;12 GB;256 GB
+MediaMarkt;vivo;;1399;2023.06.24;"6.44"" (1080 x 2408, Dotykowy, AMOLED)";MediaTek Dimensity 800;8 GB;128 GB
+MediaMarkt;REALME;;499;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";Unisoc SC9863A;2 GB;32 GB
+MediaMarkt;HUAWEI;9 Błękitny;2299;2023.06.24;"6.57"" (1080 x 2340, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 5G 8GB+256GB Lawendowy SM-S901BLVGEUE;3199;2023.06.24;"6.1"" (1080 x 2400, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;XIAOMI;;499;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";MediaTek Helio A22;2 GB;32 GB
+MediaMarkt;GIGASET;Plus;829;2023.06.24;"6.1"" (720 x 1560, Dotykowy, IPS)";MediaTek Helio P23 MT6763T;4 GB;64 GB
+MediaMarkt;SAMSUNG;;5799;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;512 GB
+MediaMarkt;DOOGEE;;1199;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;8 GB;128 GB
+MediaMarkt;HAMMER;Plus Eco Pomarańczowy;989;2023.06.24;"5.72"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;SAMSUNG;;5299;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;HUAWEI;;1139;2023.06.24;"6.7"" (1080 x 2388, LCD, Dotykowy)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;VIVO;;899;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Mediatek Helio P35 (MT6765);4 GB;128 GB
+MediaMarkt;HAMMER;X Czarny;999;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;VIVO;;1199;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;MOTOROLA;40 Ultra;5499;2023.06.24;"6.9"" (1080 x 2640, P-OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;VIVO;;4799;2023.06.24;"6.78"" (1440 x 3200, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;XIAOMI;Note;1169;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G95;6 GB;64 GB
+MediaMarkt;DOOGEE;;1499;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio P70;8 GB;128 GB
+MediaMarkt;HUAWEI;;9999;2023.06.24;"7.85"" (2496 x 2224, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;12 GB;512 GB
+MediaMarkt;REALME;;799;2023.06.24;;;6 GB;128 GB
+MediaMarkt;XIAOMI;;449;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;3 GB;32 GB
+MediaMarkt;XIAOMI;;549;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;3 GB;64 GB
+MediaMarkt;VIVO;;1199;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;VIVO;;779;2023.06.24;"6.51"" (720 x 1600, Dotykowy, IPS)";Mediatek Helio P35 (MT6765);4 GB;128 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 8GB+128GB Burgundowy SM-S908BDRDEUE;5899;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;HAMMER;3 LTE Srebrny;697;2023.06.24;"5.45"" (1440 x 720, Dotykowy, IPS)";MediaTek MTK6763;3 GB;32 GB
+MediaMarkt;DOOGEE;;899;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;GIGASET;;2749;2023.06.24;"6.6"" (1080 x 2412, Dotykowy, IPS)";MediaTek Dimensity 900 5G;6 GB;128 GB
+MediaMarkt;HUAWEI;;759;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";;4 GB;64 GB
+MediaMarkt;MOTOROLA;;899;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;8 GB;128 GB
+MediaMarkt;ONEPLUS;;3799;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, Fluid AMOLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;128 GB
+MediaMarkt;GIGASET;;1699;2023.06.24;"6.1"" (720 x 1560, Dotykowy, IPS, V-Notch)";MediaTek Helio G99;4 GB;64 GB
+MediaMarkt;GIGASET;Lite Szary;1179;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio G85 A75;4 GB;64 GB
+MediaMarkt;MOTOROLA;30;3499;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 8+ Gen 1;12 GB;256 GB
+MediaMarkt;MOTOROLA;20;3299;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 870;12 GB;256 GB
+MediaMarkt;POCO;;1299;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 695;8 GB;256 GB
+MediaMarkt;OPPO;;1239;2023.06.24;"6.56"" (720 x 1612, Dotykowy)";MediaTek Helio MT6833 5G;4 GB;128 GB
+MediaMarkt;MOTOROLA;30 Neo;1499;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;SONY;10 V;2299;2023.06.24;"6.1"" (1080 x 2520, Dotykowy)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;TCL;;599;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;DOOGEE;;1499;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio P70;8 GB;128 GB
+MediaMarkt;TCL;Niebieski;999;2023.06.24;"6.7"" (1080 x 2040, Dotykowy, AMOLED)";MediaTek Helio G37;4 GB;128 GB
+MediaMarkt;DOOGEE;;2199;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 700;8 GB;256 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 12GB+512GB Czarny SM-S908BZKHEUE;6899;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;12 GB;512 GB
+MediaMarkt;ONEPLUS;;3999;2023.06.24;"6.7"" (1440 x 3216, Dotykowy, Super Fluid AMOLED)";Qualcomm Snapdragon 8 Gen 2;8 GB;128 GB
+MediaMarkt;XIAOMI;;649;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;DOOGEE;;2199;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 700;8 GB;256 GB
+MediaMarkt;MOTOROLA;;4999;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;MOTOROLA;;899;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;MOTOROLA;40;2699;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, P-OLED)";MediaTek Dimensity 8020;8 GB;256 GB
+MediaMarkt;DOOGEE;;1649;2023.06.24;"6.39"" (720 x 1560, LCD, Dotykowy)";MediaTek Helio G95;8 GB;128 GB
+MediaMarkt;REALME;2;2699;2023.06.24;"6.62"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;12 GB;256 GB
+MediaMarkt;ONEPLUS;2T;2199;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, Fluid AMOLED)";MediaTek Dimensity 1300;12 GB;256 GB
+MediaMarkt;NUBIA;7;4399;2023.06.24;"6.8"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;18 GB;256 GB
+MediaMarkt;GIGASET;;1629;2023.06.24;"6.1"" (720 x 1560, Dotykowy, IPS, V-Notch)";MediaTek Helio G99;4 GB;64 GB
+MediaMarkt;ONEPLUS;CE 3 Lite;1549;2023.06.24;"6.72"" (1080 x 2400, LCD, Dotykowy)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;MYPHONE;;339;2023.06.24;"5.45"" (480 x 960, Dotykowy, IPS)";Spreadtrum SC9832E;2 GB;16 GB
+MediaMarkt;GIGASET;Lite Biały;1399;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio G85 A75;4 GB;64 GB
+MediaMarkt;OUKITEL;;579;2023.06.24;"5.93"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A22 MT6761;4 GB;32 GB
+MediaMarkt;ULEFONE;;699;2023.06.24;"5.7"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A25;4 GB;64 GB
+MediaMarkt;DOOGEE;;1849;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio P90;8 GB;128 GB
+MediaMarkt;REALME;;899;2023.06.24;"6.6"" (1080 x 2408, Dotykowy)";Unisoc T616;4 GB;128 GB
+MediaMarkt;REALME;NEO 3;2669;2023.06.24;"6.7"" (1080 x 2412, AMOLED)";MediaTek Dimensity 8100 5G;12 GB;256 GB
+MediaMarkt;INFINIX;;1099;2023.06.24;"6.78"" (1080 x 2460, Dotykowy, IPS, LTPS)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;INFINIX;30;1399;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;256 GB
+MediaMarkt;HUAWEI;;759;2023.06.24;"6.52"" (720 x 1600, Dotykowy)";;4 GB;64 GB
+MediaMarkt;HAMMER;;2399;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Dimensity 720;6 GB;128 GB
+MediaMarkt;INFINIX;7;399;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";Unisoc SC9863A;2 GB;64 GB
+MediaMarkt;DOOGEE;;899;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;DOOGEE;;1999;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;DOOGEE;;2399;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;NOKIA;TA-1362;2029;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, IPS)";Qualcomm Snapdragon 480 5G;4 GB;64 GB
+MediaMarkt;DOOGEE;;1649;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio P90;8 GB;128 GB
+MediaMarkt;INFINIX;30;1399;2023.06.24;"6.78"" (1080 x 2400, Dotykowy, IPS, LTPS)";MediaTek Dimensity 6080;8 GB;128 GB
+MediaMarkt;MOTOROLA;G53;1039;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";Qualcomm Snapdragon 480+ 5G;4 GB;128 GB
+MediaMarkt;XIAOMI;;4799;2023.06.24;"6.36"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 2;8 GB;256 GB
+MediaMarkt;ONEPLUS;CE 3 Lite;1529;2023.06.24;"6.72"" (1080 x 2400, LCD, Dotykowy)";Qualcomm Snapdragon 695;8 GB;128 GB
+MediaMarkt;ULEFONE;X10;849;2023.06.24;"5"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio P22;4 GB;64 GB
+MediaMarkt;DOOGEE;;1099;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;6 GB;64 GB
+MediaMarkt;NOKIA;5G Dual;2479;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Snapdragon 695 5G;8 GB;256 GB
+MediaMarkt;INFINIX;Ultra;2839;2023.06.24;"6.8"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 920;8 GB;256 GB
+MediaMarkt;TCL;;819;2023.06.24;"6.75"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G37;6 GB;256 GB
+MediaMarkt;INFINIX;;599;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";Unisoc T606;4 GB;128 GB
+MediaMarkt;INFINIX;30;1399;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;256 GB
+MediaMarkt;HUAWEI;;1499;2023.06.24;"6.95"" (1080 x 2376, Dotykowy, FullView)";;8 GB;128 GB
+MediaMarkt;INFINIX;12 Pro;1099;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 810;8 GB;128 GB
+MediaMarkt;DOOGEE;;1539;2023.06.24;"6.39"" (720 x 1560, LCD, Dotykowy)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;HAMMER;;1699;2023.06.24;"6"" (1080 x 2160, Dotykowy, IPS)";MediaTek Helio G85;6 GB;128 GB
+MediaMarkt;INFINIX;12;799;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;SAMSUNG;S23;8099;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;1 TB
+MediaMarkt;MYPHONE;eSIM Niebieski;669;2023.06.24;"6"" (720 x 1560, Kolorowy, Dotykowy)";MediaTek MT6762;4 GB;64 GB
+MediaMarkt;MOTOROLA;G53;1039;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";Qualcomm Snapdragon 480+ 5G;4 GB;128 GB
+MediaMarkt;DOOGEE;;899;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;DOOGEE;;1199;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;6 GB;128 GB
+MediaMarkt;INFINIX;;499;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";MediaTek Helio A22;3 GB;64 GB
+MediaMarkt;INFINIX;;1099;2023.06.24;"6.78"" (1080 x 2460, Dotykowy, IPS, LTPS)";MediaTek Helio G99;8 GB;128 GB
+MediaMarkt;HUAWEI;11;3199;2023.06.24;"6.78"" (1200 x 2652, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;POCO;GT;2749;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;REALME;2;4129;2023.06.24;"6.7"" (1440 x 3216, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;HAMMER;Plus Eco Srebrny;989;2023.06.24;"5.72"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;MOTOROLA;40 Ultra;5499;2023.06.24;"6.9"" (1080 x 2640, P-OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;BLACKVIEW;;619;2023.06.24;"6.1"" (720 x 1560, Dotykowy, IPS)";MediaTek Helio A22;4 GB;32 GB
+MediaMarkt;BLACKVIEW;;999;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";MediaTek Helio G85;6 GB;128 GB
+MediaMarkt;ULEFONE;Armor 16;969;2023.06.24;"5.93"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;OUKITEL;;599;2023.06.24;;MediaTek Helio A25;4 GB;64 GB
+MediaMarkt;OUKITEL;;669;2023.06.24;"5.93"" (720 x 1440, Dotykowy)";MediaTek MT6761;4 GB;32 GB
+MediaMarkt;OUKITEL;;1599;2023.06.24;"6.67"" (1080 x 2400, Dotykowy)";MediaTek Dimensity 800;8 GB;128 GB
+MediaMarkt;INFINIX;12;1099;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G99;8 GB;256 GB
+MediaMarkt;INFINIX;20;979;2023.06.24;"6.82"" (720 x 1640, Dotykowy, IPS)";MediaTek Helio G85;6 GB;128 GB
+MediaMarkt;OUKITEL;;599;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A25;4 GB;64 GB
+MediaMarkt;ULEFONE;;829;2023.06.24;"6.1"" (720 x 1560, Dotykowy, IPS)";MediaTek Helio P60;4 GB;64 GB
+MediaMarkt;DOOGEE;;1539;2023.06.24;"6.39"" (720 x 1560, LCD, Dotykowy)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;BLACKVIEW;;649;2023.06.24;;MediaTek MT6762V/WD;4 GB;64 GB
+MediaMarkt;OUKITEL;;699;2023.06.24;;MediaTek Helio A22 MT6761;4 GB;64 GB
+MediaMarkt;OUKITEL;;2399;2023.06.24;"6.78"" (1080 x 2460, Dotykowy, IPS)";MediaTek Helio G99;12 GB;256 GB
+MediaMarkt;ZTE;;649;2023.06.24;"6.52"" (720 x 1600, TFT, Dotykowy)";Unisoc SC9863A;3 GB;64 GB
+MediaMarkt;ULEFONE;X6;459;2023.06.24;"5"" (720 x 1280, Dotykowy, IPS)";MediaTek MT6580;2 GB;16 GB
+MediaMarkt;ULEFONE;X6;449;2023.06.24;"5"" (720 x 1280, Dotykowy, IPS)";MediaTek MT6580;2 GB;16 GB
+MediaMarkt;vivo;;1399;2023.06.24;"6.58"" (1080 x 2400, LCD, Dotykowy)";Qualcomm Snapdragon 680;8 GB;256 GB
+MediaMarkt;INFINIX;20;949;2023.06.24;"6.82"" (720 x 1640, Dotykowy, IPS)";MediaTek Helio G85;6 GB;128 GB
+MediaMarkt;MOTOROLA;;899;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G85;4 GB;128 GB
+MediaMarkt;TCL;Czarny;999;2023.06.24;"6.7"" (1080 x 2040, Dotykowy, AMOLED)";MediaTek Helio G37;4 GB;128 GB
+MediaMarkt;POCO;;799;2023.06.24;"6.71"" (720 x 1650, Dotykowy)";JLQ JR510;4 GB;64 GB
+MediaMarkt;OUKITEL;;1199;2023.06.24;"6.52"" (720 x 1560, Dotykowy)";MediaTek Helio P22;4 GB;64 GB
+MediaMarkt;ZTE;30;2649;2023.06.24;"6.92"" (1080 x 2460, Dotykowy, AMOLED)";Qualcomm Snapdragon 870;12 GB;256 GB
+MediaMarkt;INFINIX;12 Pro;1099;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 810;8 GB;128 GB
+MediaMarkt;INFINIX;Ultra;2849;2023.06.24;"6.8"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 920;8 GB;256 GB
+MediaMarkt;DOOGEE;;2499;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";Mediatek Dimensity 1080;12 GB;256 GB
+MediaMarkt;OUKITEL;;819;2023.06.24;"5.93"" (720 x 1440, Dotykowy)";MediaTek Helio P22;4 GB;64 GB
+MediaMarkt;OUKITEL;;599;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A25;4 GB;64 GB
+MediaMarkt;ZTE;;399;2023.06.24;"5.45"" (720 x 1440, TFT, Dotykowy)";Unisoc SC9863A;2 GB;32 GB
+MediaMarkt;MOTOROLA;;5669;2023.06.24;"6.7"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;OUKITEL;;1299;2023.06.24;"6.78"" (1080 x 2400, Dotykowy, IPS)";MediaTek Helio G95;8 GB;128 GB
+MediaMarkt;ONEPLUS;CE 2 Lite;999;2023.06.24;"6.59"" (1080 x 2412, Dotykowy, IPS)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;INFINIX;20;949;2023.06.24;"6.82"" (720 x 1640, Dotykowy, IPS)";MediaTek Helio G85;6 GB;128 GB
+MediaMarkt;SONY;;7199;2023.06.24;"6.5"" (1644 x 3840, Dotykowy, OLED)";Qualcomm Snapdragon 888 5G;12 GB;512 GB
+MediaMarkt;XIAOMI;;3579;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;BLACKVIEW;;1399;2023.06.24;"5.84"" (1080 x 2280, Dotykowy, IPS)";MediaTek Helio P90;6 GB;128 GB
+MediaMarkt;OUKITEL;;1149;2023.06.24;"6.39"" (720 x 1560, Dotykowy, IPS)";MediaTek Helio P60;8 GB;128 GB
+MediaMarkt;OUKITEL;;1499;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";MediaTek Helio P90;8 GB;256 GB
+MediaMarkt;OUKITEL;;1159;2023.06.24;"6.39"" (720 x 1560, Dotykowy, IPS)";MediaTek Helio P60;8 GB;128 GB
+MediaMarkt;OUKITEL;;669;2023.06.24;"5.93"" (720 x 1440, Dotykowy)";MediaTek MT6761;4 GB;32 GB
+MediaMarkt;DOOGEE;;1199;2023.06.24;"6"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio G35;6 GB;128 GB
+MediaMarkt;DOOGEE;;1499;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio P70;8 GB;128 GB
+MediaMarkt;DOOGEE;;1999;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;DOOGEE;;2199;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 700;8 GB;256 GB
+MediaMarkt;DOOGEE;;2499;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";Mediatek Dimensity 1080;12 GB;256 GB
+MediaMarkt;OUKITEL;;779;2023.06.24;"5.93"" (720 x 1440, Dotykowy)";MediaTek Helio P22;4 GB;64 GB
+MediaMarkt;REALME;2;2499;2023.06.24;"6.62"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;8 GB;128 GB
+MediaMarkt;HAMMER;2 Eco Czarny;749;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek MTK6761;3 GB;32 GB
+MediaMarkt;NUBIA;6R;1999;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;12 GB;256 GB
+MediaMarkt;ULEFONE;Armor;1699;2023.06.24;"6.81"" (1080 x 2400, Dotykowy, IPS)";MediaTek Helio G95;8 GB;256 GB
+MediaMarkt;DOOGEE;;2599;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";Mediatek Dimensity 1080;12 GB;256 GB
+MediaMarkt;DOOGEE;;2499;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";Mediatek Dimensity 1080;12 GB;256 GB
+MediaMarkt;DOOGEE;;1699;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio G96;8 GB;128 GB
+MediaMarkt;ULEFONE;Armor 18;2499;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";MediaTek Dimensity 900;12 GB;256 GB
+MediaMarkt;OUKITEL;;349;2023.06.24;"6.517"" (720 x 1600, Dotykowy)";MediaTek Helio A22 MT6761;3 GB;16 GB
+MediaMarkt;OUKITEL;;649;2023.06.24;"5.93"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A22 MT6761;4 GB;32 GB
+MediaMarkt;OUKITEL;;699;2023.06.24;"5.93"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A22 MT6761;4 GB;64 GB
+MediaMarkt;ZTE;;549;2023.06.24;"6.52"" (720 x 1600, TFT, Dotykowy)";Unisoc SC9863A;2 GB;32 GB
+MediaMarkt;SONY;5 IV;4899;2023.06.24;"6.1"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;HUAWEI;50;4699;2023.06.24;"6.74"" (1212 x 2616, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;256 GB
+MediaMarkt;INFINIX;;599;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";Unisoc T606;4 GB;128 GB
+MediaMarkt;DOOGEE;;1399;2023.06.24;"6.39"" (720 x 1560, LCD, Dotykowy)";MediaTek Helio G95;8 GB;128 GB
+MediaMarkt;INFINIX;20;649;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, IPS)";MediaTek Dimensity 810;4 GB;128 GB
+MediaMarkt;OUKITEL;;1799;2023.06.24;"6.67"" (1080 x 2400, Dotykowy)";MediaTek Dimensity 800;8 GB;128 GB
+MediaMarkt;DOOGEE;;1999;2023.06.24;"6.3"" (1080 x 2340, LCD, Dotykowy)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;SAMSUNG;S23;8099;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;1 TB
+MediaMarkt;INFINIX;30;1899;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED, LTPS)";MediaTek Dimensity 8050;12 GB;256 GB
+MediaMarkt;POCO;;1299;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 695;8 GB;256 GB
+MediaMarkt;SAMSUNG;S23;8099;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;1 TB
+MediaMarkt;HUAWEI;;1449;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;POCO;Pro;1699;2023.06.24;"6.67"" (1800 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;8 GB;256 GB
+MediaMarkt;POCO;;2399;2023.06.24;"6.67"" (1080 x 2400, )";Snapdragon 7+ Gen 2;12 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3199;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;APPLE;14 Pro 256GB Głęboka;6189;2023.06.24;"6.1"" (1179 x 2556, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3199;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;APPLE;14 Pro Max 256GB Głęboka;6999;2023.06.24;"6.7"" (1290 x 2796, Dotykowy, OLED, Super Retina XDR)";Apple A16 Bionic;6 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3199;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;128 GB
+MediaMarkt;OPPO;Pro 5G Błękitny;2499;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 870;12 GB;256 GB
+MediaMarkt;OPPO;;1099;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;SAMSUNG;Z Flip4;3599;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;512 GB
+MediaMarkt;SAMSUNG;S23;6899;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;512 GB
+MediaMarkt;OPPO;5G Błękitny;1499;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 900;8 GB;128 GB
+MediaMarkt;XIAOMI;Pro;6299;2023.06.24;"6.73"" (1440 x 3200, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 2;12 GB;256 GB
+MediaMarkt;SAMSUNG;M33;1599;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, PLS TFT LCD)";Samsung Exynos 1280;6 GB;128 GB
+MediaMarkt;OPPO;;1099;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;MOTOROLA;;799;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;VIVO;;2499;2023.06.24;"6.44"" (1080 x 2400, Pojemnościowy, Dotykowy, AMOLED)";MediaTek Dimensity 920;12 GB;256 GB
+MediaMarkt;SAMSUNG;Z Fold4;5999;2023.06.24;"7.6"" (2176 x 1812, Dotykowy, Dynamic AMOLED 2X, Infinity Flex)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3399;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;256 GB
+MediaMarkt;APPLE;14 256GB Księżycowa;4899;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;256 GB
+MediaMarkt;APPLE;13 Pro Max 1TB Alpejska;7999;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;14 Plus 128GB;4849;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;128 GB
+MediaMarkt;APPLE;12 256GB;4549;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 Pro 1TB;7659;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;1 TB
+MediaMarkt;APPLE;13 Pro Max 512GB;7039;2023.06.24;"6.7"" (1284 x 2778, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;512 GB
+MediaMarkt;APPLE;12 mini 256GB;3879;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;12 mini 256GB;3879;2023.06.24;"5.4"" (1080 x 2340, Dotykowy, OLED, Super Retina XDR)";Apple A14 Bionic;4 GB;256 GB
+MediaMarkt;APPLE;13 Pro 1TB;7659;2023.06.24;"6.1"" (1170 x 2532, Dotykowy, OLED, Super Retina XDR)";Apple A15 Bionic;6 GB;1 TB
+MediaMarkt;OPPO;Niebieski;499;2023.06.24;"6.52"" (720 x 1600, LCD, Dotykowy)";MediaTek Helio G35;4 GB;128 GB
+MediaMarkt;ONEPLUS;;4299;2023.06.24;"6.7"" (1440 x 3216, Dotykowy, Super Fluid AMOLED)";Qualcomm Snapdragon 8 Gen 2;16 GB;256 GB
+MediaMarkt;SAMSUNG;Z Fold4;6299;2023.06.24;"7.6"" (2176 x 1812, Dotykowy, Dynamic AMOLED 2X, Infinity Flex)";Qualcomm Snapdragon 8 Gen 1;12 GB;512 GB
+MediaMarkt;XIAOMI;Note;1149;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;XIAOMI;;699;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;OPPO;;499;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;SAMSUNG;S21 FE;2899;2023.06.24;"6.4"" (1080 x 2340, Dotykowy, AMOLED, Infinity-O)";Qualcomm Snapdragon 888;8 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3399;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;256 GB
+MediaMarkt;SAMSUNG;S23;6899;2023.06.24;"6.8"" (1440 x 3088, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 2;12 GB;512 GB
+MediaMarkt;SAMSUNG;A33 5G 6GB+128GB Bialy SM-A336BZWGEUE;1749;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";;6 GB;128 GB
+MediaMarkt;MOTOROLA;;799;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;SAMSUNG;Z Fold4;5999;2023.06.24;"7.6"" (2176 x 1812, Dotykowy, Dynamic AMOLED 2X, Infinity Flex)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;MOTOROLA;30;2499;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 888+ 5G;8 GB;128 GB
+MediaMarkt;OPPO;;499;2023.06.24;"6.56"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 8GB+128GB Czarny SM-S908BZKDEUE;5899;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;MOTOROLA;;799;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 10;1399;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 732G;6 GB;128 GB
+MediaMarkt;MOTOROLA;E20 2GB+32GB Niebieski (Coastal Blue);399;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS, Max Vision)";Unisoc T606;2 GB;32 GB
+MediaMarkt;XIAOMI;Note;999;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;6 GB;128 GB
+MediaMarkt;HUAWEI;9 SE Niebieski;1269;2023.06.24;"6.78"" (1080 x 2388, Dotykowy, IPS)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;SAMSUNG;S20 FE;2599;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;MOTOROLA;;699;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";MediaTek Helio G85;4 GB;64 GB
+MediaMarkt;XIAOMI;;949;2023.06.24;"6.5"" (1080 x 2400, Dotykowy)";MediaTek Helio G88;4 GB;128 GB
+MediaMarkt;MOTOROLA;30 Pro 12GB+256GB Granatowy (Cosmos Blue);3799;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;TCL;Czarny;899;2023.06.24;"6.7"" (1080 x 2040, Dotykowy, AMOLED)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;HUAWEI;Pro Czarny (Golden Black);4729;2023.06.24;"6.6"" (1228 x 2700, Dotykowy, OLED)";Qualcomm Snapdragon 888;8 GB;256 GB
+MediaMarkt;XIAOMI;;3739;2023.06.24;"6.28"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;8 GB;256 GB
+MediaMarkt;SAMSUNG;A33 5G 6GB+128GB Niebieski SM-A336BLBGEUE;1749;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED, Infinity-U)";;6 GB;128 GB
+MediaMarkt;SAMSUNG;A13;849;2023.06.24;"6.6"" (1080 x 2408, Dotykowy, PLS)";MediaTek MT6177;4 GB;64 GB
+MediaMarkt;HUAWEI;8i Czarny;1429;2023.06.24;"6.67"" (1080 x 2376, Dotykowy, IPS)";Qualcomm Snapdragon 662;6 GB;128 GB
+MediaMarkt;MOTOROLA;30;1599;2023.06.24;"6.5"" (1080 x 2400, AMOLED)";Qualcomm Snapdragon 778G+ 5G;8 GB;128 GB
+MediaMarkt;OPPO;;799;2023.06.24;"6.59"" (1080 x 2412, Dotykowy)";Qualcomm Snapdragon 680;6 GB;128 GB
+MediaMarkt;XIAOMI;Pro;4879;2023.06.24;"6.73"" (1440 x 3200, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;HUAWEI;;899;2023.06.24;"6.75"" (720 x 1600, Dotykowy, LCD TFT)";;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 10;999;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 700;4 GB;64 GB
+MediaMarkt;REALME;;1399;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;HUAWEI;8i Srebrny;1429;2023.06.24;"6.67"" (1080 x 2376, Dotykowy, IPS)";Qualcomm Snapdragon 662;6 GB;128 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 12GB+256GB Biały SM-S908BZWGEUE;6399;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;12 GB;256 GB
+MediaMarkt;XIAOMI;Note 10;1099;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 700;4 GB;128 GB
+MediaMarkt;XIAOMI;;949;2023.06.24;"6.5"" (1080 x 2400, Dotykowy)";MediaTek Helio G88;4 GB;128 GB
+MediaMarkt;HUAWEI;9 SE Biały;1499;2023.06.24;"6.78"" (1080 x 2388, Dotykowy, IPS)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;SAMSUNG;Z Flip4;3399;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;256 GB
+MediaMarkt;XIAOMI;Note 10;1499;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 732G;6 GB;128 GB
+MediaMarkt;REALME;2;2699;2023.06.24;"6.62"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;12 GB;256 GB
+MediaMarkt;MOTOROLA;G71;1399;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;XIAOMI;11 Lite;1789;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 780G;6 GB;128 GB
+MediaMarkt;XIAOMI;;2699;2023.06.24;"6.67"" (1220 x 2712, Dotykowy, CrystalRes AMOLED)";MediaTek Dimensity 8100 Ultra;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22+ 5G 8GB+256GB Czarny SM-S906BZKGEUE;5199;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 12GB+256GB Burgundowy SM-S908BDRGEUE;6399;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;12 GB;256 GB
+MediaMarkt;XIAOMI;11 Lite;1789;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 780G;6 GB;128 GB
+MediaMarkt;XIAOMI;Pro;4899;2023.06.24;"6.73"" (1440 x 3200, Dotykowy, AMOLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;SAMSUNG;Z Flip4;3599;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;512 GB
+MediaMarkt;XIAOMI;Note 10;999;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 700;4 GB;64 GB
+MediaMarkt;XIAOMI;Note;999;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;6 GB;64 GB
+MediaMarkt;MOTOROLA;G50;939;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS)";Qualcomm Snapdragon 480 5G;4 GB;64 GB
+MediaMarkt;HAMMER;Pomarańczowy;949;2023.06.24;"5.72"" (720 x 1440, Dotykowy, IPS)";MediaTek MT6761V;3 GB;32 GB
+MediaMarkt;MOTOROLA;;2299;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;XIAOMI;Note 11 4GB+64GB Grafitowy (Graphite Gray);949;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;64 GB
+MediaMarkt;MOTOROLA;G100 Niebieski (Iridescent Ocean);2499;2023.06.24;"6.7"" (1080 x 2520, Dotykowy, IPS)";Qualcomm Snapdragon 870 5G;8 GB;128 GB
+MediaMarkt;XIAOMI;11 Lite;1889;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 780G;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 8GB+128GB Zielony SM-S908BZGDEUE;5899;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;REALME;Pro+;1999;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED)";MediaTek Dimensity 920;8 GB;256 GB
+MediaMarkt;MOTOROLA;30 Pro 12GB+256GB Biały (Stardust White);3799;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;XIAOMI;Lite 5G;1979;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;POCO;Pro;1099;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 810;4 GB;64 GB
+MediaMarkt;vivo;5G Niebieski (Dream Glow);1419;2023.06.24;"6.58"" (1080 x 2408, Dotykowy, IPS)";MediaTek Dimensity 700;8 GB;128 GB
+MediaMarkt;OPPO;Czarny;769;2023.06.24;"6.52"" (720 x 1600, LCD, Dotykowy)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;OPPO;Czarny;629;2023.06.24;"6.52"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;3 GB;32 GB
+MediaMarkt;SAMSUNG;A53;2099;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Samsung Exynos 1200;6 GB;128 GB
+MediaMarkt;POCO;;1399;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;8 GB;256 GB
+MediaMarkt;MOTOROLA;20;1689;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";MediaTek Dimensity 720;8 GB;128 GB
+MediaMarkt;XIAOMI;;949;2023.06.24;"6.5"" (1080 x 2400, Dotykowy)";MediaTek Helio G88;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 11 4GB+64GB Niebieski (Star Blue);959;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 680;4 GB;64 GB
+MediaMarkt;SAMSUNG;A13;849;2023.06.24;"6.6"" (1080 x 2400, Dotykowy, PLS TFT LCD)";Samsung Exynos 850;4 GB;64 GB
+MediaMarkt;SONY;10;1679;2023.06.24;"6"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 690 5G;6 GB;128 GB
+MediaMarkt;MOTOROLA;;989;2023.06.24;"6.8"" (1080 x 2460, Dotykowy, IPS)";Qualcomm Snapdragon 732G;6 GB;128 GB
+MediaMarkt;XIAOMI;Lite 5G;1789;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;6 GB;128 GB
+MediaMarkt;OPPO;N2 Flip;4999;2023.06.24;"6.8"" (1080 x 2520, Dotykowy, AMOLED)";MediaTek Dimensity 9000+;8 GB;256 GB
+MediaMarkt;XIAOMI;;3997;2023.06.24;"6.67"" (1080 x 2340, Dotykowy, AMOLED)";Qualcomm Snapdragon 865;8 GB;256 GB
+MediaMarkt;SAMSUNG;S20 FE;2599;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;XIAOMI;Note 10;1389;2023.06.24;"6.67"" (1080 x 2400, Dotykowy)";Qualcomm Snapdragon 732G;6 GB;64 GB
+MediaMarkt;XIAOMI;11;1499;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 732G;6 GB;128 GB
+MediaMarkt;XIAOMI;11 Lite;1839;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 780G;8 GB;128 GB
+MediaMarkt;POCO;;799;2023.06.24;"6.71"" (720 x 1650, Dotykowy)";JLQ JR510;4 GB;64 GB
+MediaMarkt;OPPO;Niebieski;769;2023.06.24;"6.52"" (720 x 1600, LCD, Dotykowy)";MediaTek Helio G35;4 GB;64 GB
+MediaMarkt;SAMSUNG;S20 FE;2949;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;8 GB;256 GB
+MediaMarkt;SAMSUNG;S21+ 5G 128GB Czarny SM-G996BZKDEUE;4799;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, Dynamic AMOLED, Infinity-O)";Samsung Exynos 2100;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22+ 5G 8GB+128GB Zielony SM-S906BZGDEUE;4999;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;128 GB
+MediaMarkt;REALME;;899;2023.06.24;"6.6"" (1080 x 2412, Dotykowy, IPS)";MediaTek Helio G96;4 GB;128 GB
+MediaMarkt;XIAOMI;9C;519;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;2 GB;32 GB
+MediaMarkt;OPPO;;899;2023.06.24;"6.5"" (720 x 1600, LCD, Dotykowy, a-Si)";Qualcomm Snapdragon 460;4 GB;64 GB
+MediaMarkt;XIAOMI;10T;2079;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, IPS)";Qualcomm Snapdragon 865;8 GB;128 GB
+MediaMarkt;vivo;Niebieski (Oxygen Blue);1099;2023.06.24;"6.44"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 665;8 GB;128 GB
+MediaMarkt;SONY;1;5239;2023.06.24;"6.5"" (1644 x 3840, Dotykowy, OLED)";Qualcomm Snapdragon 888 5G;12 GB;256 GB
+MediaMarkt;SONY;5;4069;2023.06.24;"6.1"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 888 5G;8 GB;128 GB
+MediaMarkt;REALME;Pro+;1699;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED)";MediaTek Dimensity 920;6 GB;128 GB
+MediaMarkt;REALME;;599;2023.06.24;"6.5"" (720 x 1600, LCD, Dotykowy)";Spreadtrum Unisoc T610;4 GB;64 GB
+MediaMarkt;XIAOMI;;729;2023.06.24;"6.71"" (720 x 1650, Dotykowy, IPS)";Qualcomm Snapdragon 680;4 GB;64 GB
+MediaMarkt;REALME;2;1999;2023.06.24;"6.62"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;8 GB;128 GB
+MediaMarkt;DOOGEE;Czarny;797;2023.06.24;"5.5"" (720 x 1440, IPS)";MediaTek MT6750T;4 GB;64 GB
+MediaMarkt;INFINIX;;499;2023.06.24;"6.6"" (720 x 1612, Dotykowy, IPS)";MediaTek Helio G25;4 GB;64 GB
+MediaMarkt;INFINIX;12;1199;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;8 GB;128 GB
+MediaMarkt;ONEPLUS;;4099;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, Fluid AMOLED)";Qualcomm Snapdragon 8+ Gen 1;16 GB;256 GB
+MediaMarkt;XIAOMI;;2499;2023.06.24;"6.67"" (1220 x 2712, Dotykowy, CrystalRes AMOLED)";MediaTek Dimensity 8100 Ultra;8 GB;128 GB
+MediaMarkt;OPPO;2020 Zielony;1297;2023.06.24;"6.5"" (720 x 1600, LCD, Dotykowy)";Qualcomm Snapdragon 665;4 GB;128 GB
+MediaMarkt;HUAWEI;20 Lite Niebieski;997;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";HiSilicon Kirin 710;4 GB;64 GB
+MediaMarkt;SAMSUNG;Z Fold3 5G 12GB+256GB Srebrny;5489;2023.06.24;"7.6"" (2208 x 1768, Dotykowy, Dynamic AMOLED 2X)";Qualcomm Snapdragon 888;12 GB;256 GB
+MediaMarkt;MOTOROLA;20;1699;2023.06.24;"6.7"" (1080 x 2400, Dotykowy, OLED)";MediaTek Dimensity 720;8 GB;128 GB
+MediaMarkt;POCO;;1899;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 870;8 GB;256 GB
+MediaMarkt;NOKIA;;419;2023.06.24;"6.5"" (720 x 1600, Dotykowy)";Spreadtrum SC9863A;2 GB;32 GB
+MediaMarkt;OPPO;Niebieski;579;2023.06.24;"6.52"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;3 GB;32 GB
+MediaMarkt;MOTOROLA;30;2999;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, P-OLED)";Qualcomm Snapdragon 888+ 5G;8 GB;128 GB
+MediaMarkt;ULEFONE;;2199;2023.06.24;"6.3"" (1080 x 2340, Dotykowy, IPS)";MediaTek Helio P90;8 GB;128 GB
+MediaMarkt;MOTOROLA;;599;2023.06.24;"6.5"" (720 x 1600, Dotykowy, IPS, Max Vision)";MediaTek Helio G37;4 GB;64 GB
+MediaMarkt;DOOGEE;Czarny;257;2023.06.24;"6.1"" (600 x 1280, LTPS)";MediaTek MT6580A;1 GB;16 GB
+MediaMarkt;SAMSUNG;S21 5G 128GB Biały SM-G991BZWDEUE;3899;2023.06.24;"6.2"" (1080 x 2400, Dotykowy, Dynamic AMOLED, Infinity-O)";Samsung Exynos 2100;8 GB;128 GB
+MediaMarkt;XIAOMI;;849;2023.06.24;"6.5"" (1080 x 2400, Dotykowy)";MediaTek Helio G88;4 GB;64 GB
+MediaMarkt;SAMSUNG;S22 Ultra 5G 12GB+256GB Zielony SM-S908BZGGEUE;5499;2023.06.24;"6.8"" (1440 x 3080, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;12 GB;256 GB
+MediaMarkt;SONY;10 IV;1929;2023.06.24;"6"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;SONY;1 IV;6029;2023.06.24;"6.5"" (1644 x 3840, Dotykowy, OLED)";Qualcomm Snapdragon 8 Gen 1;12 GB;256 GB
+MediaMarkt;HUAWEI;50;5579;2023.06.24;"6.74"" (1212 x 2616, Dotykowy, OLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;512 GB
+MediaMarkt;NOKIA;5G Dual;1599;2023.06.24;"6.58"" (1080 x 2400, Dotykowy, IPS)";Snapdragon 695 5G;6 GB;128 GB
+MediaMarkt;XIAOMI;;2549;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Dimensity 1200-Ultra;8 GB;256 GB
+MediaMarkt;MOTOROLA;G71;1399;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 695;6 GB;128 GB
+MediaMarkt;XIAOMI;Lite 5G;2099;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;OPPO;Pro Czarny;2597;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 765G;12 GB;256 GB
+MediaMarkt;HUAWEI;;1449;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;SAMSUNG;S21 5G 128GB Szary SM-G991BZADEUE;3899;2023.06.24;"6.2"" (1080 x 2400, Dotykowy, Dynamic AMOLED, Infinity-O)";Samsung Exynos 2100;8 GB;128 GB
+MediaMarkt;REALME;;1199;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED)";MediaTek Helio G95;6 GB;128 GB
+MediaMarkt;REALME;;999;2023.06.24;"6.6"" (1080 x 2412, Dotykowy, IPS)";MediaTek Helio G96;4 GB;128 GB
+MediaMarkt;REALME;;799;2023.06.24;"6.5"" (720 x 1600, LCD, Dotykowy)";Unisoc T618;4 GB;128 GB
+MediaMarkt;OPPO;5G 8GB+128GB Czarny;1399;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 765 5G;8 GB;128 GB
+MediaMarkt;XIAOMI;Note 10;1399;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 732G;6 GB;128 GB
+MediaMarkt;XIAOMI;Note 10;1099;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, IPS)";MediaTek Dimensity 700;4 GB;128 GB
+MediaMarkt;SONY;5;4299;2023.06.24;"6.1"" (1080 x 2520, Dotykowy, OLED)";Qualcomm Snapdragon 888 5G;8 GB;128 GB
+MediaMarkt;SAMSUNG;S21 5G 128GB Szary SM-G991BZADEUE;3899;2023.06.24;"6.2"" (1080 x 2400, Dotykowy, Dynamic AMOLED, Infinity-O)";Samsung Exynos 2100;8 GB;128 GB
+MediaMarkt;SAMSUNG;S22+ 5G 8GB+256GB Biały SM-S906BZWGEUE;5199;2023.06.24;"6.6"" (1080 x 2340, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Samsung Exynos 2200;8 GB;256 GB
+MediaMarkt;HUAWEI;;1449;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, OLED)";Qualcomm Snapdragon 680;8 GB;128 GB
+MediaMarkt;HAMMER;3 Srebrny;597;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek MT6580;1 GB;16 GB
+MediaMarkt;SAMSUNG;S20 128GB Szary SM-G980FZADEUE;3949;2023.06.24;"6.2"" (1440 x 3200, Dotykowy, Dynamic AMOLED)";Samsung Exynos 990;8 GB;128 GB
+MediaMarkt;POCO;;1697;2023.06.24;"6.67"" (1080 x 2400, Dotykowy)";Qualcomm Snapdragon 865;6 GB;128 GB
+MediaMarkt;ALCATEL;4 (5) Czarny;337;2023.06.24;"5"" (480 x 854, TFT, Dotykowy, TN)";Mediatek MT6580M;1 GB;8 GB
+MediaMarkt;XIAOMI;10T Lite;1499;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, IPS)";Qualcomm Snapdragon 750G;6 GB;128 GB
+MediaMarkt;ONEPLUS;;3569;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, Fluid AMOLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;128 GB
+MediaMarkt;TCL;Szary;799;2023.06.24;"6.52"" (720 x 1600, LCD, Dotykowy)";MediaTek Helio G25;4 GB;128 GB
+MediaMarkt;XIAOMI;Note 11;1559;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G96;6 GB;128 GB
+MediaMarkt;XIAOMI;Lite 5G;2099;2023.06.24;"6.55"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 778G;8 GB;128 GB
+MediaMarkt;XIAOMI;;2829;2023.06.24;"6.67"" (1080 x 2400, Dotykowy, AMOLED)";Qualcomm Snapdragon 888 5G;8 GB;256 GB
+MediaMarkt;ONEPLUS;;3569;2023.06.24;"6.7"" (1080 x 2412, Dotykowy, Fluid AMOLED)";Qualcomm Snapdragon 8+ Gen 1;8 GB;128 GB
+MediaMarkt;SAMSUNG;S20+ 4G 128GB Czarny SM-G985FZKDEUE;4397;2023.06.24;"6.7"" (1440 x 3200, Dotykowy, Dynamic AMOLED)";Samsung Exynos 990;8 GB;128 GB
+MediaMarkt;XIAOMI;Note 9;1229;2023.06.24;"6.67"" (1080 x 2400, Dotykowy)";Qualcomm Snapdragon 720G;6 GB;128 GB
+MediaMarkt;SAMSUNG;S20 FE;2949;2023.06.24;"6.5"" (1080 x 2400, Dotykowy, Super AMOLED)";Qualcomm Snapdragon 865;8 GB;256 GB
+MediaMarkt;XIAOMI;Note;1099;2023.06.24;"6.43"" (1080 x 2400, Dotykowy, AMOLED)";MediaTek Helio G95;6 GB;64 GB
+MediaMarkt;XIAOMI;9C;599;2023.06.24;"6.53"" (720 x 1600, Dotykowy, IPS)";MediaTek Helio G35;2 GB;32 GB
+MediaMarkt;REALME;;1069;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED)";MediaTek Helio G95;6 GB;128 GB
+MediaMarkt;SAMSUNG;Z Flip3 5G 8GB+128GB Czarny SM-F711BZKBEUE;4689;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Dynamic AMOLED)";Qualcomm Snapdragon 888;8 GB;128 GB
+MediaMarkt;LG;ThinQ New Moroccan Blue;2497;2023.06.24;"6.1"" (1440 x 3120 , Dotykowy, IPS QHD, FullVision)";Qualcomm Snapdragon 845;4 GB;64 GB
+MediaMarkt;ALCATEL;(2022);399;2023.06.24;"5.5"" (720 x 1440, Dotykowy, IPS)";MediaTek Helio A22 MT6761;2 GB;32 GB
+MediaMarkt;REALME;Pro+;1799;2023.06.24;"6.4"" (1080 x 2400, Dotykowy, Super AMOLED)";MediaTek Dimensity 920;6 GB;128 GB
+MediaMarkt;SAMSUNG;Z Flip4;3599;2023.06.24;"6.7"" (1080 x 2640, Dotykowy, Infinity-O, Dynamic AMOLED 2X)";Qualcomm Snapdragon 8 Gen 1;8 GB;512 GB
+MediaMarkt;SAMSUNG;Z Fold4;6299;2023.06.24;"7.6"" (2176 x 1812, Dotykowy, Dynamic AMOLED 2X, Infinity Flex)";Qualcomm Snapdragon 8 Gen 1;12 GB;512 GB
+MediaMarkt;OUKITEL;;589;2023.06.24;"5.5"" (720 x 1440, Dotykowy)";MediaTek Helio A22;4 GB;32 GB
+MediaMarkt;OUKITEL;;629;2023.06.24;"5.5"" (720 x 1440, Dotykowy)";MediaTek MT6761;4 GB;32 GB

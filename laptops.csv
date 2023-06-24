@@ -1,0 +1,376 @@
+Sklep;Nazwa;Model;Cena;Data;Ekran (przekątna);Procesor;Pamięć RAM;Dedykowany układ graficzny
+MediaMarkt;ASUS;Gaming F15 FX506HC-HN004W;3999;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;15-fb0181nw FHD Ryzen;3999;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;15-fb0111n FHD Ryzen;3299;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;ASUS;Gaming F17 (2022) FX707ZC4-HX008W;4699;2023.06.24;"17.3""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;Dash F15 (2022) FX517ZR-HN007WA;6399;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 3.3-4.4 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3070 8 GB GDDR6
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K101EYPB;3999;2023.06.24;"15.6""";Intel® Core™ i5-11320H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;Gaming F15 FX506HEB-HN012W;4499;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;LENOVO;Gaming 3 15IAH7 82S900YWPB;4899;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 1.5-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;HP;FHD Ryzen;2799;2023.06.24;"15.6""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LENOVO;3 15ALC6 82KU018HPB FHD Ryzen;2399;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;15 X1500EA-BQ3415W;3099;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;2399;2023.06.24;"15.6""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;LENOVO;3 15ITL6 82H801QSPB;2499;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;;2499;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;;2399;2023.06.24;"15.6""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;15-eg2221nw;3499;2023.06.24;"15.6""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 0.9-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;3 15ITL6 82H801QQPB;1999;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;;1899;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;15-eh2321nw FHD Ryzen;2999;2023.06.24;"15.6""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ACER;3 A315-24P-R1GN FHD Ryzen;2299;2023.06.24;"15.6""";AMD Ryzen™ 5 7520U (4 rdzenie, 8 wątków, 2.8-4.3 GHz);16 GB DDR5;AMD Radeon™ 610M
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Air;6999;2023.06.24;"13.6""";Apple M2 (8 rdzeni);16 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16;14279;2023.06.24;"16.2""";Apple M2 Pro (12 rdzeni);16 GB;Apple M2 Pro (19‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;7299;2023.06.24;"13.6""";Apple M2 (8 rdzeni);16 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;LENOVO;Gaming 3 15ACH6 82K2014KPB FHD Ryzen;3299;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;APPLE;Air;7559;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6339;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;5959;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;HP;FHD;1799;2023.06.24;"17.3""";Intel® Celeron® N4120 (4 rdzenie, 4 wątki, 1.1-2.6 GHz);8 GB DDR4;Intel UHD 600
+MediaMarkt;ASUS;Strix G17 (2021) G713IM-HX055W FHD Ryzen;5799;2023.06.24;"17.3""";AMD Ryzen™ 7 4800H (8 rdzeni, 16 wątków, 2.9-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;APPLE;Air;7779;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;HP;;3699;2023.06.24;"15.6""";Intel® Core™ i7-1255U (10 rdzeni, 12 wątków, 1.2-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K101F5PB;3099;2023.06.24;"15.6""";Intel® Core™ i5-11320H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;ASUS;Gaming F15 FX506LHB-HN323W;3399;2023.06.24;"15.6""";Intel® Core™ i5-10300H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;;2199;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;3 15ALC6 82KU018FPB FHD Ryzen;1999;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;16-d1104nw;5499;2023.06.24;"16.1""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;MICROSOFT;Laptop 4 13.5 Ryzen;4499;2023.06.24;"13.5""";AMD Ryzen™ 5 4680U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™ RX Vega 6
+MediaMarkt;LENOVO;5 Pro 16ACH6 82L500HSPB WQXGA Ryzen;4349;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;MICROSOFT;Surface Pro 9;7399;2023.06.24;"13""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);8 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ACER;3 A315-58-52AF;2599;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.8 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;1999;2023.06.24;"15.6""";AMD Ryzen™ 3 5300U (4 rdzenie, 8 wątków, 2.6-3.8 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;FHD;1599;2023.06.24;"15.6""";Intel® Celeron® N4500 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;;2099;2023.06.24;"14""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 1.7-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;ACER;3 A315-23-R1AF FHD Ryzen;2299;2023.06.24;"15.6""";AMD Ryzen™ 5 3500U (4 rdzenie, 8 wątków, 2.1-3.7 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;16X X1603ZA-MB052WA;2599;2023.06.24;"16""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;3 17ITL6 82H900GHPB;2199;2023.06.24;"17.3""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;15-fa0001nw;5299;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 1.5-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;LENOVO;3 15IAU7 82RK006NPB;2899;2023.06.24;"15.6""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;16 D1603QA-MB132W WUXGA Ryzen;3039;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;MICROSOFT;Laptop Go 2 12.4;3699;2023.06.24;"12.4""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;Pavilion x360 Convertible 15-er1041nw FHD;3999;2023.06.24;"15.6""";Intel® Core™ i5-1235U (10 rdzeni, 8 wątków, 0.9-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;5 15ITH6H 82JH00BDPB;5899;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;ASUS;;1799;2023.06.24;"15.6""";Intel® Core™ i3-10110U (2 rdzenie, 4 wątki, 2.1-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;FHD Ryzen;3399;2023.06.24;"14""";AMD Ryzen™ 7 5825U (8 rdzeni, 16 wątków, 2-4.5 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LENOVO;Slim 7 ProX 14IAH7 82TK0044PB;4499;2023.06.24;"14.5""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LENOVO;Gaming 3 15ACH6 82K2014WPB FHD Ryzen;3999;2023.06.24;"15.6""";AMD Ryzen™ 7 5800H (8 rdzeni, 16 wątków, 3.2-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;16-d1004nw;6999;2023.06.24;"16.1""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 1.7-4.7 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;LG;2022 14Z90Q-G.AA55Y;6699;2023.06.24;"14""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 16Z90Q-G.AA56Y;5399;2023.06.24;"16""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;APPLE;Air;7299;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8499;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14;11369;2023.06.24;"14.2""";Apple M1 Pro (10 rdzeni);16 GB;Apple M1 Pro (16-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;7299;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14;18599;2023.06.24;"14.2""";Apple M2 Max (12 rdzeni);32 GB;Apple M2 Max (30‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8499;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8499;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;MSI;GF76 11UE-465PL;5299;2023.06.24;"17.3""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.2-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;ASUS;Gaming F17 (2022) FX707ZC-HX013WA;4499;2023.06.24;"17.3""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;PEAQ;C151V-1G428P FHD;1299;2023.06.24;"15.6""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB;Intel UHD 600
+MediaMarkt;LENOVO;Slim 7 Pro 14IAH7 82UT001HPB;3999;2023.06.24;"14""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;;1899;2023.06.24;"15.6""";Intel® Core™ i3-1215U (6 rdzeni, 8 wątków, 0.9-4.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HUAWEI;D14 (2021);2899;2023.06.24;"14""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 1-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HUAWEI;D16;3999;2023.06.24;"16""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 3.3-4.4 GHz);16 GB DDR4;Intel UHD
+MediaMarkt;HP;;2699;2023.06.24;"15.6""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 0.9-4.4 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;3199;2023.06.24;"15.6""";AMD Ryzen™ 7 5700U (8 rdzeni, 16 wątków, 1.8-4.3 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;;1899;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;15-eg2001nw;4599;2023.06.24;"15.6""";Intel® Core™ i7-1255U (10 rdzeni, 12 wątków, 1.2-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;15-fa0131nw;3299;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 1.5-4.4 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HUAWEI;D 15 (2021);2599;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;17 D712DA-BX857W HD+ Ryzen;2299;2023.06.24;"17.3""";AMD Ryzen™ 3 3250U (2 rdzenie, 4 wątki, 2.6-3.5 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;17-cr0121nw;4999;2023.06.24;"17.3""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 1.2-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;16-b1051nw;7799;2023.06.24;"16.1""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;HP;;3799;2023.06.24;"14""";Intel® Core™ i7-1255U (10 rdzeni, 12 wątków, 1.2-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;PEAQ;C171V-1G428P FHD;1499;2023.06.24;"17.3""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB;Intel UHD 600
+MediaMarkt;HUAWEI;D 15;3289;2023.06.24;"15.6""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 1-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;;2349;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;PEAQ;C151V-2G856P FHD Pentium;1699;2023.06.24;"15.6""";Intel® Pentium® Silver N5030 (4 rdzenie, 4 wątki, 1.1-3.1 GHz);8 GB;Intel UHD 605
+MediaMarkt;LENOVO;Gaming 3 15ACH6 82K200NVPB FHD Ryzen;3999;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;LENOVO;5 Pro 16ACH6 82L500VWPB WQXGA Ryzen;4849;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;FHD Ryzen;2799;2023.06.24;"17.3""";AMD Ryzen™ 5 7520U (4 rdzenie, 8 wątków, 2.8-4.3 GHz);8 GB DDR5;AMD Radeon™ 610M
+MediaMarkt;LENOVO;5 Pro 16ACH6 82L500HPPB WQXGA Ryzen;4749;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;INTEL GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;15-eg2421nw;3299;2023.06.24;"15.6""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 0.9-4.4 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;DELL;13 9305;4649;2023.06.24;"13.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;3 15ALC6 82KU018GPB FHD Ryzen;2399;2023.06.24;"15.6""";AMD Ryzen™ 7 5700U (8 rdzeni, 16 wątków, 1.8-4.3 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;;1879;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;ASUS;;2099;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;15-eg1141nw;3699;2023.06.24;"15.6""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 1-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;13-ba1131nw;4699;2023.06.24;"13.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;FHD;1399;2023.06.24;"14""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;LENOVO;5 15ACH6H 82JU00TCPB FHD Ryzen;4999;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;ASUS;FHD;1499;2023.06.24;"14""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;HP;15-fa0139nw;3699;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 1.5-4.4 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K100QXPB;4099;2023.06.24;"15.6""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.1 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;MICROSOFT;Surface Go 3 10.5 Pentium;2499;2023.06.24;"10.5""";Intel® Pentium® Gold 6500Y (2 rdzenie, 4 wątki, 1.1-3.4 GHz);4 GB DDR3;Intel UHD 615
+MediaMarkt;ASUS;;1999;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;;2999;2023.06.24;"17.3""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;FHD Ryzen;3299;2023.06.24;"17.3""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;Spectre x360 16-f0221nw 3K+;7299;2023.06.24;"16""";Intel® Core™ i7-11390H (4 rdzenie, 8 wątków, 2.9-5 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;5 14ITL05 82FE0133PB;3999;2023.06.24;"14""";Intel® Core™ i7-1165G7 (4 rdzenie, 8 wątków, 1.2-4.7 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HUAWEI;B3-520;2599;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 16Z90Q-G.AA79Y;7349;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;DELL;15 3525 FHD Ryzen;3299;2023.06.24;"15.6""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;LG;2022 16Z90Q-G.AA76Y;6079;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;MSI;Thin 11UD-815PL;5299;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.2-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;LG;2022 16Z90Q-G.AA78Y;6999;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;PEAQ;S132V-1G464P;1299;2023.06.24;"13.3""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB;Intel UHD 600
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K100R8PB;4999;2023.06.24;"15.6""";Intel® Core™ i7-11370H (4 rdzenie, 8 wątków, 3.3-4.8 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;17-ck1101nw;15799;2023.06.24;"17.3""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 2.3-4.7 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3080 Ti 16 GB GDDR6
+MediaMarkt;HP;;3299;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AA58Y;6499;2023.06.24;"17""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;;2499;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;ASUS;14 UX425EA-KI928W;4299;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;14-eb0171nw;5949;2023.06.24;"14""";Intel® Core™ i7-11370H (4 rdzenie, 8 wątków, 3-3.3 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;14-eb0101nw;4999;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;MICROSOFT;Laptop 5 13.5;4999;2023.06.24;"13.5""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);8 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;Gaming 15-dk2421nw;4599;2023.06.24;"15.6""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;Pavilion x360 14-ek0021nw Dotykowy;3999;2023.06.24;"14""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 0.9-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 14Z90Q-G.AA56Y;5349;2023.06.24;"14""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AA76Y;7999;2023.06.24;"17""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 16Z90Q-G.AA54Y;5759;2023.06.24;"16""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AA55Y;7299;2023.06.24;"17""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;S15 M3502QA-MA097W OLED Ryzen;4697;2023.06.24;"15.6""";AMD Ryzen™ 7 5800H (8 rdzeni, 16 wątków, 3.2-4.4 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LG;2022 16Z90Q-G.AA55Y;5429;2023.06.24;"16""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 16U70Q-G.AA56Y WUXGA Ryzen;3899;2023.06.24;"16""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;HP;Gaming 17-cd2531nw;3999;2023.06.24;"17.3""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;LG;2022 16Z90Q-G.AA75Y;6049;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;14 2023 14ZB90R-G.AA55Y;6299;2023.06.24;"14""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;MICROSOFT;Laptop 5 13.5;6499;2023.06.24;"13.5""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);8 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;Aero 13-be1361nw WQXGA Ryzen;5699;2023.06.24;"13.3""";AMD Ryzen™ 7 5825U (8 rdzeni, 16 wątków, 2-4.5 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;HP;Plus 14-eh0001nw;4999;2023.06.24;"14""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AA79Y;8499;2023.06.24;"17""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AA75Y;6179;2023.06.24;"17""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;;2099;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);4 GB DDR4;Intel UHD
+MediaMarkt;LG;17 2023 17Z90R-G.AA56Y;7949;2023.06.24;"17""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;15 2023 15Z90R-G.AA56Y;6849;2023.06.24;"15.6""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;2w1;Gram 14 2023 14T90R-G.AA55Y WUXGA;8149;2023.06.24;"14""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;Envy x360 15-ew0011nw FHD;6399;2023.06.24;"15.6""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 1.5-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;5 A514-52-306T;1999;2023.06.24;"14""";Intel® Core™ i3-8145U (2 rdzenie, 4 wątki, 2.1-3.9 GHz);4 GB DDR4;Intel UHD 620
+MediaMarkt;LG;16 2023 16Z90R-G.AA55Y;7529;2023.06.24;"16""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;Aero 13-be1351nw WUXGA Ryzen;4699;2023.06.24;"13.3""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LG;14 2023 14Z90R-G.AA78Y;8449;2023.06.24;"14""";Intel® Core™ i7-1360P (12 rdzeni, 16 wątków, 1.6-5 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;16 2023 16Z90R-G.AA76Y;8939;2023.06.24;"16""";Intel® Core™ i7-1360P (12 rdzeni, 16 wątków, 1.6-5 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;;1999;2023.06.24;"15.6""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HUAWEI;MateBook E 2.5K;6499;2023.06.24;"12.6""";Intel® Core™ i5-1130G7 (4 rdzenie, 8 wątków, 1.8-4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;TECHBITE;3 14.1 FHD;1099;2023.06.24;"14.1""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;HP;16-h0121nw UHD+;10199;2023.06.24;"16""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 1.7-4.7 GHz);32 GB DDR5;INTEL Arc™ A370M 4 GB GDDR6
+MediaMarkt;ASUS;Zephyrus G14 (2022) GA402RJ-L4055W FHD+ Ryzen;8599;2023.06.24;"14""";AMD Ryzen™ 7 6800HS (8 rdzeni, 16 wątków, 3.2-4.7 GHz);16 GB DDR5;AMD Radeon™ RX 6700S 8 GB GDDR6
+MediaMarkt;LG;17 2023 17ZB90R-G.AA55Y;7249;2023.06.24;"17""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;Spectre x360 16-f1021nw 3K+;10399;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 1.5-4.7 GHz);16 GB DDR4;INTEL Arc™ A370M 4 GB GDDR6
+MediaMarkt;LG;16 2023 16Z90R-G.AA56Y;7599;2023.06.24;"16""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;14 UM3402YA-KP374W WQXGA Ryzen;5599;2023.06.24;"14""";AMD Ryzen™ 7 7730U (8 rdzeni, 16 wątków, 2-4.5 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LG;16 2023 16ZB90R-G.AA55Y;6849;2023.06.24;"16""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;TECHBITE;Arc 11.6 HD Dotykowy;869;2023.06.24;"11.6""";Intel® Celeron® N4000 (2 rdzenie, 2 wątki, 1.1-2.6 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;LG;16 2023 16Z90R-G.AA75Y;8899;2023.06.24;"16""";Intel® Core™ i7-1360P (12 rdzeni, 16 wątków, 1.6-5 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;MICROSOFT;Surface Pro 9 Dotykowy;7699;2023.06.24;"13""";;8 GB DDR5;QUALCOMM Adreno™ 8CX 3. generacji
+MediaMarkt;HP;16-n0111nw QHD Ryzen;11999;2023.06.24;"16.1""";AMD Ryzen™ 9 6900HX (8 rdzeni, 16 wątków, 3.3-4.9 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;HP;17-cr0001nw;8399;2023.06.24;"17.3""";Intel® Core™ i7-1255U (10 rdzeni, 12 wątków, 1.2-4.7 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 2050 4 GB GDDR6
+MediaMarkt;ASUS;Strix SCAR (2022) G733ZW-KH126W;12299;2023.06.24;"17.3""";Intel® Core™ i9-12900H (14 rdzeni, 20 wątków, 2.5-5 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;ASUS;Strix SCAR 17 (2022) G733ZX-LL035W;17299;2023.06.24;"17.3""";Intel® Core™ i9-12900H (14 rdzeni, 20 wątków, 2.5-5 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3080 Ti 16 GB GDDR6
+MediaMarkt;ASUS;ROG Flow X13 GV301RE-LJ053W FHD+ Dotykowy Ryzen;7599;2023.06.24;"13.4""";AMD Ryzen™ 7 6800HS (8 rdzeni, 16 wątków, 3.2-4.7 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;ASUS;Strix SCAR 15 (2022) G533ZS-LN025W;13899;2023.06.24;"15.6""";Intel® Core™ i9-12900H (14 rdzeni, 20 wątków, 3.8-5 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3080 8 GB GDDR6
+MediaMarkt;HP;16-h0131nw;8399;2023.06.24;"16""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 1.7-4.7 GHz);16 GB DDR5;INTEL Arc™ A370M 4 GB GDDR6
+MediaMarkt;HP;16-h0151nw;7699;2023.06.24;"16""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;INTEL Arc™ A370M 4 GB GDDR6
+MediaMarkt;HP;16-h0111nw UHD+;12499;2023.06.24;"16""";Intel® Core™ i9-12900H (14 rdzeni, 20 wątków, 1.8-5 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;HP;16-h0141nw;8499;2023.06.24;"16""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;INTEL Arc™ A370M 4 GB GDDR6
+MediaMarkt;HP;17-cr0111nw;8299;2023.06.24;"17.3""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 1.5-4.7 GHz);32 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;Zephyrus G15 (2022) GA503RW-LN036W WQHD Ryzen;12199;2023.06.24;"15.6""";AMD Ryzen™ 9 6900HS (8 rdzeni, 16 wątków, 3.3-4.9 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;XPG;;5499;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;RAZER;17 RZ09-0423PEC3-R3E1 FHD;19379;2023.06.24;"17.3""";Intel® Core™ i7-12800H (14 rdzeni, 20 wątków, 2.4-4.8 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3080 Ti 8 GB GDDR6
+MediaMarkt;LG;17 2023 17Z90R-G.AD78Y;9499;2023.06.24;"17""";Intel® Core™ i7-1360P (12 rdzeni, 16 wątków, 1.6-5 GHz);32 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;SuperSlim 15 2023 15Z90RT-G.AA55Y;7699;2023.06.24;"15.6""";Intel® Core™ i5-1340P (12 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;Strix G17 (2022) G713RW-LL115W WQHD Ryzen;10299;2023.06.24;"17.3""";AMD Ryzen™ 7 6800H (8 rdzeni, 16 wątków, 3.2-4.7 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;LG;2022 15Z90Q-G.AA56Y;5499;2023.06.24;"15.6""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;APPLE;Pro 14;16429;2023.06.24;"14.2""";Apple M2 Max (12 rdzeni);32 GB;Apple M2 Max (30‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro 14;11279;2023.06.24;"14.2""";Apple M2 Pro (10 rdzeni);16 GB;Apple M2 Pro (16‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6339;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro;6999;2023.06.24;"13.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6099;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;7599;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8799;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6029;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16;20199;2023.06.24;"16.2""";Apple M2 Max (12 rdzeni);32 GB;Apple M2 Max (38‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8799;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16;14799;2023.06.24;"16.2""";Apple M2 Pro (12 rdzeni);16 GB;Apple M2 Pro (19‑rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16;14939;2023.06.24;"16.2""";Apple M2 Pro (12 rdzeni);16 GB;Apple M2 Pro (19‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8799;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8799;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;LENOVO;3 15ALC6 82KU018DPB FHD Ryzen;2399;2023.06.24;"15.6""";AMD Ryzen™ 3 5300U (4 rdzenie, 8 wątków, 2.6-3.8 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;FHD Ryzen;2799;2023.06.24;"14""";AMD Ryzen™ 5 5625U (6 rdzeni, 12 wątków, 2.3-4.3 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;15 OLED K513EA-L11957W;3999;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;2649;2023.06.24;"17.3""";AMD Ryzen™ 3 5300U (4 rdzenie, 8 wątków, 2.6-3.8 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;14-dv2121nw;3399;2023.06.24;"14""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 0.9-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;Gaming FX706HC-HX007W;4199;2023.06.24;"17.3""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;FHD Ryzen;3099;2023.06.24;"15.6""";AMD Ryzen™ 5 4600H (6 rdzeni, 12 wątków, 2.9-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;FHD Ryzen;3499;2023.06.24;"15.6""";AMD Ryzen™ 7 4800H (8 rdzeni, 16 wątków, 2.9-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;;1699;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;Yoga 7 14IAL7 82QE006DPB 2.8K;5199;2023.06.24;"14""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 1.7-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LENOVO;3 15ITL6 82H8019QPB;2199;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Air;7299;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14;14119;2023.06.24;"14.2""";Apple M2 Pro (12 rdzeni);16 GB;Apple M2 Pro (19‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;7299;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6329;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16 M1;10497;2023.06.24;"16.2""";Apple M1 Pro (10 rdzeni);16 GB;Apple M1 Pro (16-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;7579;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14;10109;2023.06.24;"14.2""";Apple M1 Pro (8 rdzeni);16 GB;Apple M1 Pro (14-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro;6697;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB;APPLE M1 (8-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro 16 M1;12497;2023.06.24;"16.2""";Apple M1 Pro (10 rdzeni);16 GB;Apple M1 Pro (16-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16 M1;10747;2023.06.24;"16.2""";Apple M1 Pro (10 rdzeni);16 GB;Apple M1 Pro (16-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro;6997;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB;APPLE M1 (8-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro 16;13339;2023.06.24;"16.2""";Apple M2 Pro (12 rdzeni);16 GB;Apple M2 Pro (19‑rdzeniowe GPU)
+MediaMarkt;APPLE;Air;8499;2023.06.24;"15.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;4299;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (7-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro;7697;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB;APPLE M1 (8-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro;8059;2023.06.24;"13.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14 M1;9497;2023.06.24;"14.2""";Apple M1 Pro (10 rdzeni);16 GB;Apple M1 Pro (16-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro;7197;2023.06.24;"13.3""";Apple M2 (8 rdzeni);8 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro;9899;2023.06.24;"13.3""";Apple M2 (8 rdzeni);16 GB;APPLE M2 (10-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 16 M1;19999;2023.06.24;"16.2""";Apple M1 Max (10 rdzeni);32 GB;Apple M1 Max (32-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6999;2023.06.24;"13.6""";Apple M2 (8 rdzeni);8 GB DDR4;APPLE M2 (8-rdzeniowe GPU)
+MediaMarkt;APPLE;Air;6447;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (8-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro 15.4 z Touch Bar;9347;2023.06.24;"15.4""";Intel® Core™ i9 (8 rdzeni);16 GB DDR4;AMD Radeon™ PRO 560X 4GB GDDR5
+MediaMarkt;APPLE;Pro 13.3 z Touch Bar;9997;2023.06.24;"13.3""";;8 GB DDR3;INTEL Iris® Plus 655
+MediaMarkt;APPLE;Air;6447;2023.06.24;"13.3""";Apple M1 (8 rdzeni);8 GB DDR4;APPLE M1 (8-rdzeniowe gpu)
+MediaMarkt;APPLE;Pro 13.3;9497;2023.06.24;"13.3""";;16 GB DDR4;INTEL Iris® Plus Graphics
+MediaMarkt;APPLE;Pro 14;9497;2023.06.24;"14.2""";Apple M1 Pro (8 rdzeni);16 GB;Apple M1 Pro (14-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 14;9497;2023.06.24;"14.2""";Apple M1 Pro (8 rdzeni);16 GB;Apple M1 Pro (14-rdzeniowe GPU)
+MediaMarkt;APPLE;Pro 13.3 z Touch Bar;6597;2023.06.24;"13.3""";;8 GB DDR3;INTEL Iris® Plus 655
+MediaMarkt;ACER;3 A315-23-R6CP FHD Ryzen;2699;2023.06.24;"15.6""";AMD Ryzen™ 5 3500U (4 rdzenie, 8 wątków, 2.1-3.7 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;HD;1299;2023.06.24;"11.6""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;LENOVO;3 17ITL6 82H900GKPB;2999;2023.06.24;"17.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD;1599;2023.06.24;"17.3""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);8 GB DDR4;Intel UHD 600
+MediaMarkt;ASUS;17 X712EA-AU684W;2399;2023.06.24;"17.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;3 A315-34-C6K4 FHD;1599;2023.06.24;"15.6""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;HUAWEI;D14 (2021);3299;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;;2999;2023.06.24;"15.6""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;FHD;1599;2023.06.24;"15.6""";Intel® Celeron® N4500 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HUAWEI;D 15 (2021);3239;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K100R1PB;3999;2023.06.24;"15.6""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.1 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;16-e0111nw FHD Ryzen;3999;2023.06.24;"16.1""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;;4699;2023.06.24;"15.6""";Intel® Core™ i7-1195G7 (4 rdzenie, 8 wątków, 2.9-5 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;2399;2023.06.24;"14""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;Gaming F15 FX506LHB-HN345W;3699;2023.06.24;"15.6""";Intel® Core™ i5-10300H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;FHD Ryzen;3199;2023.06.24;"17.3""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;FHD Ryzen;3399;2023.06.24;"15.6""";AMD Ryzen™ 5 4600H (6 rdzeni, 12 wątków, 2.9-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;;2349;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;;2399;2023.06.24;"15.6""";Intel® Core™ i3-10110U (2 rdzenie, 4 wątki, 2.1-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;14-dv1331nw;3299;2023.06.24;"14""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;;3799;2023.06.24;"15.6""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 2.5-4.5 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;15-eg1131nw;3099;2023.06.24;"15.6""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 1-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;TECHBITE;4 15.6 FHD;1699;2023.06.24;"15.6""";Intel® Celeron® N4000 (2 rdzenie, 2 wątki, 1.1-2.6 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;ASUS;14X OLED UX5401EA-L7102W;4599;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;FHD;1499;2023.06.24;"14""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;HUAWEI;D 15;2199;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 1.7-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;17-ck1111nw;11999;2023.06.24;"17.3""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 2.3-4.7 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;HP;Pavilion x360 Convertible 15-er0201nw FHD;3999;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 17Z90Q-G.AD78Y;9399;2023.06.24;"17""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);32 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;16-d1111nw;6999;2023.06.24;"16.1""";Intel® Core™ i5-12500H (12 rdzeni, 16 wątków, 2.5-4.5 GHz);16 GB DDR5;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;MICROSOFT;Surface Pro 9;6899;2023.06.24;"13""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);8 GB DDR5;INTEL Iris® Xe
+MediaMarkt;LG;Gram 2022 14T90Q-G.AA55Y WUXGA;5999;2023.06.24;"14""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;14-dv1411nw;3099;2023.06.24;"14""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;FHD;1499;2023.06.24;"14""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;LENOVO;Gaming 3 15ACH6 82K200NXPB FHD Ryzen;4599;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;LG;2022 17Z90Q-G.AA7BY;10599;2023.06.24;"17""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);32 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;;2499;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;1 A114-61-S80P FHD;1199;2023.06.24;"14""";Qualcomm® Snapdragon SC7180 (8 rdzeni, 8 wątków, 2.4- GHz);4 GB DDR4;QUALCOMM Adreno 618
+MediaMarkt;LG;2022 15Z90Q-G.AA55Y;5299;2023.06.24;"15.6""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;16-e0401nw FHD Ryzen;6599;2023.06.24;"16.1""";AMD Ryzen™ 7 5800H (8 rdzeni, 16 wątków, 3.2-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;HP;15-eg1151nw;4549;2023.06.24;"15.6""";Intel® Core™ i5-1155G7 (4 rdzenie, 8 wątków, 1-4.5 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;16-b1041nw;9799;2023.06.24;"16.1""";Intel® Core™ i7-12700H (14 rdzeni, 20 wątków, 2.3-4.7 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;HP;17-ck0131nw;8399;2023.06.24;"17.3""";Intel® Core™ i7-11800H (8 rdzeni, 16 wątków, 2.3-4.6 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;ACER;5 AN515-57-55TX;3999;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;15-fa0129nw;4599;2023.06.24;"15.6""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 1.5-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;MICROSOFT;Surface Laptop Studio;7999;2023.06.24;"14.4""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2022 14Z90Q-G.AA54Y;5149;2023.06.24;"14""";Intel® Core™ i5-1240P (12 rdzeni, 16 wątków, 3.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HUAWEI;16 2.5K Ryzen;4699;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LG;2022 14Z90Q-G.AA78Y;6179;2023.06.24;"14""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;DELL;5515 Ryzen Edition FHD Ryzen;4699;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HUAWEI;D16 FHD Ryzen;3997;2023.06.24;"16.1""";AMD Ryzen™ 5 4600H (6 rdzeni, 12 wątków, 3-4 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;LENOVO;3 17ITL6 82H900D7PB;2999;2023.06.24;"17.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;5 AN515-57-705L;6999;2023.06.24;"15.6""";Intel® Core™ i7-11800H (8 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3070 8 GB GDDR6
+MediaMarkt;ASUS;Gaming F15 FX506HC-HN397W;4099;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;13-ba1111nw;4749;2023.06.24;"13.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;15-eh1504nw FHD Ryzen;2999;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;LENOVO;5 17ACH6 82K0002UPB FHD Ryzen;4699;2023.06.24;"17.3""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HUAWEI;D 15 (2021);3839;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;Pro 15 OLED K3500PC-L1328W;4999;2023.06.24;"15.6""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;Gaming A15 FA506ICB-HN119W FHD Ryzen;4699;2023.06.24;"15.6""";AMD Ryzen™ 5 4600H (6 rdzeni, 12 wątków, 3-4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;17-ck0141nw;9699;2023.06.24;"17.3""";Intel® Core™ i7-11800H (8 rdzeni, 16 wątków, 2.3-4.6 GHz);32 GB DDR4;NVIDIA GeForce RTX™ 3070 8 GB GDDR6
+MediaMarkt;LG;15 (2021) 15Z90P-G.AA66Y;5699;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;Gaming 3 15IHU6 82K100QSPB;3599;2023.06.24;"15.6""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.1 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;FHD;1999;2023.06.24;"14""";Intel® Celeron® N4500 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;5 15ALC05 82LN00M7PB FHD Ryzen;2499;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;;2499;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;ASUS;Zenbook 17 Fold OLED UX9702AA-MD007X;16999;2023.06.24;"17.3""";Intel® Core™ i7-1250U (10 rdzeni, 12 wątków, 1.1-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;Gaming F15 FX506HC-HN006W;3999;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;LG;Gram 2022 16T90Q-G.AA78Y WQXGA;6899;2023.06.24;"16""";Intel® Core™ i7-1260P (12 rdzeni, 16 wątków, 3.4-4.7 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;HP;14-eb0201nw;6197;2023.06.24;"14""";Intel® Core™ i7-11370H (4 rdzenie, 8 wątków, 3-3.3 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;3 15IIL05 81WE010LPB;2299;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;MSI;Thin 11UC-240PL;5497;2023.06.24;"15.6""";Intel® Core™ i7-11800H (8 rdzeni, 16 wątków, 2.3-4.6 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;;2199;2023.06.24;"15.6""";Intel® Core™ i3-1005G1 (2 rdzenie, 4 wątki, 1.2-3.4 GHz);4 GB DDR4;Intel UHD
+MediaMarkt;ASUS;;2099;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);4 GB DDR4;Intel UHD
+MediaMarkt;HP;15-ep1131nw;7599;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.2-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;HP;Aero 13-be0241nw WUXGA Ryzen;3999;2023.06.24;"13.3""";AMD Ryzen™ 5 5600U (6 rdzeni, 12 wątków, 2.3-4.2 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;HP;FHD Pentium;2199;2023.06.24;"14""";Intel® Pentium® Silver N6000 (4 rdzenie, 4 wątki, 1.1-3.3 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;3 15ADA05 81W100SRPB FHD Ryzen;3199;2023.06.24;"15.6""";AMD Ryzen™ 7 3700U (4 rdzenie, 8 wątków, 2.3-4 GHz);8 GB DDR4;AMD Radeon™ RX Vega 10
+MediaMarkt;LENOVO;3 15ADA05 81W100SRPB FHD Ryzen;3199;2023.06.24;"15.6""";AMD Ryzen™ 7 3700U (4 rdzenie, 8 wątków, 2.3-4 GHz);8 GB DDR4;AMD Radeon™ RX Vega 10
+MediaMarkt;LG;2021 16Z90P-G.AA66Y;5797;2023.06.24;"16""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;DELL;5511;5499;2023.06.24;"15.6""";Intel® Core™ i5-11260H (6 rdzeni, 12 wątków, 2.1-4.4 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;HP;Spectre x360 16-f0231nw UHD+;9899;2023.06.24;"16""";Intel® Core™ i7-11390H (4 rdzenie, 8 wątków, 2.9-5 GHz);32 GB DDR4;NVIDIA GeForce RTX™ 3050 Max-Q 4 GB GDDR6
+MediaMarkt;MICROSOFT;Surface Pro;4599;2023.06.24;"12.3""";Intel® Core™ i5-1035G4 (4 rdzenie, 8 wątków, 1.1-3.7 GHz);8 GB DDR4;INTEL Iris® Plus Graphics
+MediaMarkt;HUAWEI;14;4999;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2021 14Z90P-G.AA64Y;5399;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LG;2021 17Z90P-G.AA85Y;6899;2023.06.24;"17""";Intel® Core™ i7-1165G7 (4 rdzenie, 8 wątków, 2.8-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ASUS;ROG Flow X16 (2022) GV601RW-M5047W WQXGA Dotykowy Ryzen;14399;2023.06.24;"16""";AMD Ryzen™ 9 6900HS (8 rdzeni, 16 wątków, 3.3-4.9 GHz);32 GB DDR5;NVIDIA GeForce RTX™ 3070 Ti 8 GB GDDR6
+MediaMarkt;DELL;14 5415 FHD Ryzen;4699;2023.06.24;"14""";AMD Ryzen™ 7 5700U (8 rdzeni, 16 wątków, 1.8-4.3 GHz);16 GB DDR4;AMD Radeon™
+MediaMarkt;HP;;2597;2023.06.24;"15.6""";Intel® Core™ i3-1115G4 (2 rdzenie, 4 wątki, 3-4.1 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;HP;FHD Ryzen;2499;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;Gaming 16-a0018nw;5897;2023.06.24;"16.1""";Intel® Core™ i7-10750H (6 rdzeni, 12 wątków, 2.6-5 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1660 Ti Max-Q 6 GB GDDR6
+MediaMarkt;HP;Gaming 16-a0023nw;3897;2023.06.24;"16.1""";Intel® Core™ i5-10300H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 Ti 4 GB GDDR6
+MediaMarkt;HP;15-eh0008nw FHD Ryzen;3199;2023.06.24;"15.6""";AMD Ryzen™ 5 4500U (6 rdzeni, 6 wątków, 2.3-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;FHD;1699;2023.06.24;"15.6""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;LG;2021 17Z90P-G.AA65Y;5999;2023.06.24;"17""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;5 A517-52-52F3;3499;2023.06.24;"17.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;2899;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;Strix G15 Advantage Edition G513QY-HQ025W WQHD Ryzen;8599;2023.06.24;"15.6""";AMD Ryzen™ 9 5980HX (8 rdzeni, 16 wątków, 3.3-4.8 GHz);16 GB DDR4;AMD Radeon™ RX 6800M 12 GB GDDR6
+MediaMarkt;ACER;5 A517-52-52F3;3499;2023.06.24;"17.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;FHD Ryzen;2899;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ACER;5 AN515-57-58MY;5499;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.2-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3060 6 GB GDDR6
+MediaMarkt;ASUS;13 UX325EA-KG630W OLED;4369;2023.06.24;"13.3""";Intel® Core™ i7-1165G7 (4 rdzenie, 8 wątków, 1.2-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;ACER;5 AN515-57-75GW;7899;2023.06.24;"15.6""";Intel® Core™ i7-11800H (8 rdzeni, 16 wątków, 1.9-4.6 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3070 8 GB GDDR6
+MediaMarkt;LENOVO;5 Pro 16ACH6 82L500HQPB WQXGA Ryzen;4849;2023.06.24;"16""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HP;15-eh1221nw FHD Ryzen;3199;2023.06.24;"15.6""";AMD Ryzen™ 5 5500U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;ASUS;;2999;2023.06.24;"15.6""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;3 15ADA05 81W100SJPB FHD Ryzen;2299;2023.06.24;"15.6""";AMD Ryzen™ 3 3250U (2 rdzenie, 4 wątki, 2.6-3.5 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HUAWEI;;5999;2023.06.24;"14.2""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HUAWEI;D14 (2020);3499;2023.06.24;"14""";Intel® Core™ i5-10210U (4 rdzenie, 8 wątków, 1.6-4.2 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LG;2021 16Z90P-G.AA85Y;6499;2023.06.24;"16""";Intel® Core™ i7-1165G7 (4 rdzenie, 8 wątków, 2.8-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;Gaming 15-ec0045nw;4297;2023.06.24;"15.6""";AMD Ryzen™ 5 3550H (4 rdzenie, 8 wątków, 2.1-3.7 GHz);16 GB DDR4;NVIDIA GeForce® GTX 1650 4GB GDDR5
+MediaMarkt;ASUS;HD;1997;2023.06.24;"15.6""";Intel® Celeron® N4020 (2 rdzenie, 2 wątki, 1.1-2.8 GHz);4 GB DDR4;Intel UHD 600
+MediaMarkt;HP;FHD Ryzen;2697;2023.06.24;"15.6""";AMD Ryzen™ 3 5300U (4 rdzenie, 8 wątków, 2.6-3.8 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;HP;FHD Pentium;2199;2023.06.24;"14""";Intel® Pentium® Silver N6000 (4 rdzenie, 4 wątki, 1.1-3.3 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;ASUS;15 K513EA-BQ1041T;2997;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;5 17ACH6 82K0006BPB FHD Ryzen;4799;2023.06.24;"17.3""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;HP;Envy x360 Convert 13-bd0151nw FHD;4749;2023.06.24;"13.3""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);8 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;16-e0131nw FHD Ryzen;4899;2023.06.24;"16.1""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;HP;Envy x360 Convert 15-es0301nw FHD;4799;2023.06.24;"15.6""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;Gaming 17-cd2201nw;4449;2023.06.24;"17.3""";Intel® Core™ i5-11300H (4 rdzenie, 8 wątków, 3.1-4.4 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;LG;Gram 14T90P-G.AA55Y WUXGA;6499;2023.06.24;"14""";Intel® Core™ i5-1135G7 (4 rdzenie, 8 wątków, 2.4-4.2 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;HP;16-e0131nw FHD Ryzen;4899;2023.06.24;"16.1""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;ASUS;;2897;2023.06.24;"15.6""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD
+MediaMarkt;LENOVO;Slim 7 14ARE05 82A200A2PB FHD Ryzen;4099;2023.06.24;"14""";AMD Ryzen™ 7 4700U (8 rdzeni, 8 wątków, 2-4.1 GHz);8 GB DDR4;AMD Radeon™
+MediaMarkt;MICROSOFT;Laptop 4 13.5 Ryzen;4499;2023.06.24;"13.5""";AMD Ryzen™ 5 4680U (6 rdzeni, 12 wątków, 2.1-4 GHz);8 GB DDR4;AMD Radeon™ RX Vega 6
+MediaMarkt;HP;;3297;2023.06.24;"14""";Intel® Core™ i5-1035G1 (4 rdzenie, 8 wątków, 1-3.6 GHz);8 GB DDR4;Intel UHD 620
+MediaMarkt;HP;Gaming 15-ec2211nw FHD Ryzen;3499;2023.06.24;"15.6""";AMD Ryzen™ 5 5600H (6 rdzeni, 12 wątków, 3.3-4.2 GHz);8 GB DDR4;NVIDIA GeForce RTX™ 3050 4 GB GDDR6
+MediaMarkt;ASUS;Gaming F15 FX506HEB-HN187T;5259;2023.06.24;"15.6""";Intel® Core™ i5-11400H (6 rdzeni, 12 wątków, 2.7-4.5 GHz);16 GB DDR4;NVIDIA GeForce RTX™ 3050 Ti 4 GB GDDR6
+MediaMarkt;MICROSOFT;Laptop 5 13.5;7699;2023.06.24;"13.5""";Intel® Core™ i5-1235U (10 rdzeni, 12 wątków, 1.3-4.4 GHz);16 GB DDR5;INTEL Iris® Xe
+MediaMarkt;ASUS;14 X412DA-EK645AT FHD Ryzen;2797;2023.06.24;"14""";;4 GB DDR4;AMD Radeon™ Vega 3
+MediaMarkt;HP;Spectre x360 Convertible 14-ea0043nw 3K2K;7999;2023.06.24;"13.5""";Intel® Core™ i7-1165G7 (4 rdzenie, 8 wątków, 2.8-4.7 GHz);16 GB DDR4;INTEL Iris® Xe
+MediaMarkt;LENOVO;Gaming 3 15IMH05 81Y400UMPB;3699;2023.06.24;"15.6""";Intel® Core™ i5-10300H (4 rdzenie, 8 wątków, 2.5-4.5 GHz);8 GB DDR4;NVIDIA GeForce® GTX 1650 4 GB GDDR6
+MediaMarkt;HUAWEI;D16;3499;2023.06.24;"16""";Intel® Core™ i5-12450H (8 rdzeni, 12 wątków, 3.3-4.4 GHz);8 GB DDR4;Intel UHD

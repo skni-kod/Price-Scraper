@@ -1,0 +1,181 @@
+Sklep;Nazwa;Model;Cena;Data;Procesor;Pamięć RAM;System operacyjny;Przekątna;Rozdzielczość;Matryca
+MediaMarkt;SAMSUNG;Tab S7 FE 12.4;2299;2023.06.24;Qualcomm Snapdragon 778G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;SAMSUNG;Tab A8 10.5 WiFi 4GB 64GB Srebrny SM-X200NZSEEUE;999;2023.06.24;Unisoc T618;4 GB;Android;"10.5""";1920 x 1200;PLS
+MediaMarkt;LENOVO;M10 Plus 2K;859;2023.06.24;MediaTek Helio G80;4 GB;Android 12;"10.61""";2000 x 1200;IPS
+MediaMarkt;LENOVO;M10 Plus 2K;829;2023.06.24;MediaTek Helio G80;4 GB;Android 12;"10.61""";2000 x 1200;IPS
+MediaMarkt;APPLE;10.2 (9 gen.) 64GB Wi-Fi Gwiezdna;1699;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;SAMSUNG;Tab A7 Lite 8.7;599;2023.06.24;MediaTek MT8768T;3 GB;Android 11;"8.7""";1340 x 800;TFT/TN
+MediaMarkt;APPLE;10.2 (9 gen.) 64GB Wi-Fi;1699;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;SAMSUNG;Tab A7 Lite 8.7;599;2023.06.24;MediaTek MT8768T;3 GB;Android 11;"8.7""";1340 x 800;TFT/TN
+MediaMarkt;SAMSUNG;Tab S6 Lite 10.4;1499;2023.06.24;Qualcomm Snapdragon 720G;4 GB;Android 10;"10.4""";2000 x 1200;TFT/TN
+MediaMarkt;SAMSUNG;Tab A8 10.5 LTE 4GB 64GB Srebrny SM-X205NZSEEUE;1199;2023.06.24;Unisoc T618;4 GB;Android;"10.5""";1920 x 1200;PLS
+MediaMarkt;SAMSUNG;Tab A7 Lite 8.7;799;2023.06.24;MediaTek MT8768T;3 GB;Android 11;"8.7""";1340 x 800;TFT/TN
+MediaMarkt;SAMSUNG;Tab A8 10.5 WiFi 4GB 64GB Szary SM-X200NZAEEUE;999;2023.06.24;Unisoc T618;4 GB;Android;"10.5""";1920 x 1200;PLS
+MediaMarkt;SAMSUNG;Tab A7 Lite 8.7;799;2023.06.24;MediaTek MT8768T;3 GB;Android 11;"8.7""";1340 x 800;TFT/TN
+MediaMarkt;SAMSUNG;Tab S6 Lite 10.4;1499;2023.06.24;Qualcomm Snapdragon 720G;4 GB;Android 10;"10.4""";2000 x 1200;TFT/TN
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi;2799;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi+Cellular;4289;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 256GB Wi-Fi Gwiezdna;7249;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;SAMSUNG;Tab A8 10.5 WiFi 4GB 128GB Szary SM-X200NZAFEUE;1199;2023.06.24;Unisoc T618;4 GB;Android;"10.5""";1920 x 1200;PLS
+MediaMarkt;XIAOMI;5 11 (2021);1699;2023.06.24;Qualcomm Snapdragon 860;6 GB;Android;"11""";2560 x 1600;IPS
+MediaMarkt;SAMSUNG;Tab S6 Lite 10.4;1799;2023.06.24;Qualcomm Snapdragon 720G;4 GB;Android 10;"10.4""";2000 x 1200;TFT/TN
+MediaMarkt;XIAOMI;5 11;1999;2023.06.24;Qualcomm Snapdragon 860;6 GB;Android;"11""";2560 x 1600;IPS
+MediaMarkt;LENOVO;M10 (3rd Gen) 10.1 4GB 64GB Wi-Fi Szary (Storm Grey) ZAAE0050PL;799;2023.06.24;Unisoc T610;4 GB;Android 11;"10.1""";1920 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8;3999;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"11""";2560 x 1600;LTPS
+MediaMarkt;HUAWEI;SE (2023);1099;2023.06.24;Qualcomm SM6225;4 GB;HarmonyOS 3.0;"10.36""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S6 Lite 10.4;1799;2023.06.24;Qualcomm Snapdragon 720G;4 GB;Android 10;"10.4""";2000 x 1200;TFT/TN
+MediaMarkt;LENOVO;M10 Plus 2K 10.6;1049;2023.06.24;Qualcomm Snapdragon SDM680;4 GB;Android 12;"10.61""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S7 FE;2299;2023.06.24;Qualcomm Snapdragon 778G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;SAMSUNG;Tab S8 Ultra;6299;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;SAMSUNG;Tab S8;4339;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"11""";2560 x 1600;LTPS
+MediaMarkt;APPLE;10.2 (9 gen.) 256GB Wi-Fi Gwiezdna;2799;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 128GB Wi‑Fi+Cellular Gwiezdna;5679;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 128GB Wi-Fi Gwiezdna;6599;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;Pro 11 (4 gen.) 128GB Wi-Fi Gwiezdna;4899;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 256GB Wi‑Fi+Cellular;7029;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;LENOVO;M8 HD;519;2023.06.24;MediaTek Helio P22T;3 GB;Android 11;"8""";1280 x 800;IPS
+MediaMarkt;OPPO;Air 10.36 2023 Wi-Fi 4GB 64GB Szary;949;2023.06.24;Qualcomm Snapdragon SDM680;4 GB;ColorOS 12.1;"10.36""";2000 x 1200;IPS
+MediaMarkt;APPLE;10.2 (9 gen.) 64GB Wi-Fi+Cellular Gwiezdna;2869;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 128GB Wi-Fi+Cellular Gwiezdna;7499;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;10.2 (9 gen.) 64GB Wi-Fi+Cellular;2779;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi Gwiezdna;2699;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;10.2 (9 gen.) 256GB Wi-Fi+Cellular;3699;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi+Cellular;3759;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 256GB Wi‑Fi+Cellular Gwiezdna;6949;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 256GB Wi-Fi Gwiezdna;5399;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi+Cellular Gwiezdna;4039;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;10.2 (9 gen.) 256GB Wi-Fi+Cellular Gwiezdna;3699;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi+Cellular;3689;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 128GB Wi-Fi;4769;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi+Cellular Księżycowa;3699;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 512GB Wi-Fi;7247;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 256GB Wi-Fi+Cellular;4529;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 256GB Wi-Fi+Cellular;9099;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 256GB Wi-Fi+Cellular;4639;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 256GB Wi-Fi;3689;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi+Cellular;3599;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 1TB Wi-Fi Gwiezdna;9499;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 512GB Wi‑Fi+Cellular;7979;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 256GB Wi-Fi+Cellular;4729;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 1TB Wi‑Fi+Cellular Gwiezdna;10499;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 2TB Wi-Fi Gwiezdna;11369;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 2TB Wi-Fi;11369;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 2TB Wi‑Fi+Cellular Gwiezdna;12599;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;LENOVO;M9;899;2023.06.24;MediaTek Helio G80;4 GB;Android 12;"9""";1340 x 800;IPS
+MediaMarkt;LENOVO;P11 (2nd Gen) 11.5 6GB 128GB LTE Szary (Storm Grey) + rysik + klawiatura ZABG0184PL;1899;2023.06.24;MediaTek Helio G99;6 GB;Android 12L;"11.5""";2000 x 1200;IPS
+MediaMarkt;LENOVO;P11 (2nd Gen) 11.5 6GB 128GB Wi-Fi Szary (Storm Grey) + rysik + klawiatura ZABF0315PL;1949;2023.06.24;MediaTek Helio G99;6 GB;Android 12L;"11.5""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S7 FE 12.4;2699;2023.06.24;Qualcomm Snapdragon 750G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;LENOVO;M9;699;2023.06.24;MediaTek Helio G80;3 GB;Android 12;"9""";1340 x 800;IPS
+MediaMarkt;LENOVO;M9;799;2023.06.24;MediaTek Helio G80;4 GB;Android 12;"9""";1340 x 800;IPS
+MediaMarkt;LENOVO;M8 (4th Gen) 8.0 WiFi 3GB 32GB Szary (Arctic Grey) ZABU0139PL;499;2023.06.24;MediaTek Helio A22;3 GB;Android 12 (Go Edition);"8""";1280 x 800;IPS
+MediaMarkt;REALME;10.4 (2022) WiFi 3GB 32GB Szary;899;2023.06.24;MediaTek MT8786;3 GB;Android 11;"10.4""";2000 x 1200;IPS
+MediaMarkt;LENOVO;M9;799;2023.06.24;MediaTek Helio G80;3 GB;Android 12;"9""";1340 x 800;IPS
+MediaMarkt;LENOVO;M10 (3rd Gen) 10.1 4GB 64GB LTE Szary (Storm Grey) ZAAF0067PL;829;2023.06.24;Unisoc T610;4 GB;Android 11;"10.1""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M8 HD;849;2023.06.24;MediaTek Helio P22T;3 GB;Android 11;"8""";1280 x 800;IPS
+MediaMarkt;REALME;10.4 (2022) WiFi 4GB 64GB Szary;839;2023.06.24;MediaTek Helio G80;4 GB;Android 11;"10.4""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab A8 10.5 LTE 4GB 128GB Szary SM-X205NZAFEUE;1399;2023.06.24;Unisoc T618;4 GB;Android;"10.5""";1920 x 1200;PLS
+MediaMarkt;TCL;10s 10.1 (2022) Wi-Fi 4GB 64GB Szary (Dark Gray);1199;2023.06.24;MediaTek MT8768E;4 GB;Android 11;"10.1""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;899;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8+;5899;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;HUAWEI;10.4 (2022);1299;2023.06.24;Huawei HiSilicon Kirin 710A;4 GB;HarmonyOS 2;"10.4""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S7 FE 12.4;2699;2023.06.24;Qualcomm Snapdragon 750G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;SAMSUNG;Tab S8+;5369;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;HUAWEI;;1499;2023.06.24;HiSilicon Kirin 820;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.4""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8;3699;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"11""";2560 x 1600;LTPS
+MediaMarkt;REALME;mini 8.7 (2022) Wi-Fi 4GB 64GB Niebieski;899;2023.06.24;Unisoc T616;4 GB;Android 11;;;
+MediaMarkt;SAMSUNG;Tab S8 Ultra;7129;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;12 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;SAMSUNG;Tab S8+;5999;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;TCL;10 10.1 (2022) WiFi 4GB 64 GB Szary;799;2023.06.24;MediaTek MT8768E;4 GB;Android 11;"10.1""";1280 x 800;IPS
+MediaMarkt;HUAWEI;10.4 (2020);1599;2023.06.24;Huawei HiSilicon Kirin 810;4 GB;Android 10;"10.4""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S7 FE 12.4;2699;2023.06.24;Qualcomm Snapdragon 750G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;SAMSUNG;Tab S8 Ultra;8599;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;16 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;HUAWEI;SE (2023);1199;2023.06.24;Qualcomm SM6225;4 GB;HarmonyOS 3.0;"10.36""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8 Ultra;6899;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;12 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;HUAWEI;SE (2023);1199;2023.06.24;Qualcomm SM6225;4 GB;HarmonyOS 3.0;"10.36""";2000 x 1200;IPS
+MediaMarkt;TCL;10s 10.1 (2022) Wi-Fi 4GB 64GB Zielony (Ethereal Sky);1199;2023.06.24;MediaTek MT8768E;4 GB;Android 11;"10.1""";1920 x 1200;IPS
+MediaMarkt;APPLE;mini 8.3 (2021) 256GB Wi-Fi Księżycowa;3859;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi Księżycowa;3499;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (2021) 256GB Wi-Fi Gwiezdna;3859;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 256GB Wi-Fi+Cellular Księżycowa;4779;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (2021) 64GB Wi-Fi;2939;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (2022) 256GB Wi-Fi;4489;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;mini 8.3 (2021) 256GB Wi-Fi;3859;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 1TB Wi-Fi;9149;2023.06.24;Apple M2;16 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi;2799;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi+Cellular;3539;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi+Cellular Księżycowa;4199;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi+Cellular;4289;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi Gwiezdna;3539;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 128GB Wi-Fi;6599;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi+Cellular;4199;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 256GB Wi-Fi;3779;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi;2789;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 256GB Wi-Fi;7249;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;SAMSUNG;Tab S7 FE 12.4;2299;2023.06.24;Qualcomm Snapdragon 778G;6 GB;Android;"12.4""";2560 x 1600;TFT/TN
+MediaMarkt;SAMSUNG;Tab S8;3999;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"11""";2560 x 1600;LTPS
+MediaMarkt;SAMSUNG;Tab S8+;5299;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;APPLE;Pro 11 (4 gen.) 256GB Wi-Fi;5469;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi+Cellular;3569;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi+Cellular;3569;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 128GB Wi‑Fi+Cellular;5679;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 64GB Wi-Fi+Cellular Gwiezdna;4299;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 64GB Wi-Fi;2789;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (5 gen.) 128GB Wi-Fi+Cellular Gwiezdna;6297;2023.06.24;Apple M1;8 GB;iPadOS 14;"12.9""";2732 x 2048;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 256GB Wi-Fi;3829;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 128GB Wi-Fi+Cellular;7929;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 256GB Wi-Fi+Cellular Gwiezdna;8339;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 64GB Wi-Fi Księżycowa;2699;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 512GB Wi-Fi Gwiezdna;8439;2023.06.24;Apple M2;8 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 1TB Wi-Fi Gwiezdna;11499;2023.06.24;Apple M2;16 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;10.9 (10 gen.) 256GB Wi-Fi+Cellular;4529;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (5 gen.) 256GB Wi-Fi+Cellular;5599;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (4 gen.) 512GB Wi-Fi Gwiezdna;6599;2023.06.24;Apple M2;8 GB;iPadOS 16;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;Pro 11 (2020) 256GB Wi-Fi+Cellular;4747;2023.06.24;Apple A12Z Bionic, Apple M12 (koprocesor ruchu);6 GB;iPadOS;"11""";2388 x 1668 ;Liquid Retina
+MediaMarkt;APPLE;10.9 (10 gen.) 256GB Wi-Fi+Cellular;5059;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Air 10.9 (2022) 256GB Wi-Fi+Cellular Księżycowa;5459;2023.06.24;Apple M1;8 GB;iPadOS 15;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;(Demo);mini WiFi;1597;2023.06.24;;;;;;
+MediaMarkt;APPLE;10.2 (9 gen.) 256GB Wi-Fi;2799;2023.06.24;Apple A13 Bionic;;iPadOS 15;"10.2""";2160 x 1620;Retina
+MediaMarkt;APPLE;10.9 (2022) 256GB Wi-Fi+Cellular;4549;2023.06.24;Apple A14 Bionic;;iPadOS 16;"10.9""";2360 x 1640;Liquid Retina
+MediaMarkt;APPLE;Pro 12.9 (6 gen.) 1TB Wi-Fi;11499;2023.06.24;Apple M2;16 GB;iPadOS 16;"12.9""";2732 x 2048;Liquid Retina XDR
+MediaMarkt;APPLE;mini 8.3 (6 gen.) 256GB Wi-Fi+Cellular Gwiezdna;4769;2023.06.24;Apple A15 Bionic;4 GB;iPadOS 15;"8.3""";2266 x 1488;Liquid Retina
+MediaMarkt;LENOVO;M8 HD;529;2023.06.24;MediaTek Helio A22;2 GB;Android 9.0 Pie;"8""";1280 x 800;IPS
+MediaMarkt;HUAWEI;T10s 10.1;899;2023.06.24;Huawei HiSilicon Kirin 710A;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.1""";1920 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8+;5199;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;LENOVO;M10 Plus FHD;1199;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S8+;5199;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"12.4""";2800 x 1752;Super AMOLED
+MediaMarkt;LENOVO;M10 Plus FHD;1199;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;999;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;HUAWEI;;1349;2023.06.24;HiSilicon Kirin 820;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.4""";2000 x 1200;IPS
+MediaMarkt;HUAWEI;T10 9.7;699;2023.06.24;Huawei HiSilicon Kirin 710A;4 GB;EMUI 10.1 (oparty na systemie Android 10);"9.7""";1280 x 800;IPS
+MediaMarkt;SAMSUNG;Tab S8 Ultra;6469;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;LENOVO;M10 HD;699;2023.06.24;MediaTek Helio P22T;4 GB;Android 10;"10.1""";1280 x 800;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;1099;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M8 HD;619;2023.06.24;MediaTek Helio A22;2 GB;Android 9.0 Pie;"8""";1280 x 800;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;999;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;LENOVO;P11 (2nd Gen) 11.5 6GB 128GB Wi-Fi Szary (Storm Grey) + rysik Precision Pen 2 (2023) ZABF0355PL;1699;2023.06.24;MediaTek Helio G99;6 GB;Android 12L;"11.5""";2000 x 1200;IPS
+MediaMarkt;REALME;10.4 (2022) LTE 6GB 128GB Szary;1499;2023.06.24;MediaTek Helio G80;6 GB;Android 11;"10.4""";2000 x 1200;IPS
+MediaMarkt;LENOVO;M10 HD;799;2023.06.24;Qualcomm Snapdragon 429;2 GB;Android 9.0 Pie;"10.1""";1280 x 800;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;1099;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;HUAWEI;T5 10.1;899;2023.06.24;Huawei HiSilicon Kirin 659;2 GB;EMUI 8.0 (oparty na Android 8.0);"10.1""";1920 x 1200;IPS
+MediaMarkt;TCL;10L 10.1 (2022) WiFi 2GB 32GB Czarny;549;2023.06.24;MediaTek MTK8167B;2 GB;Android 11;"10.1""";1280 x 800;IPS
+MediaMarkt;HUAWEI;10.4 (2020);799;2023.06.24;Huawei HiSilicon Kirin 810;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.4""";2000 x 1200;IPS
+MediaMarkt;LENOVO;M10 Plus FHD;1399;2023.06.24;MediaTek Helio P22T;4 GB;Android 9.0 Pie;"10.3""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M10 HD;699;2023.06.24;MediaTek Helio P22T;4 GB;Android 10;"10.1""";1280 x 800;IPS
+MediaMarkt;HUAWEI;T10s 10.1;1199;2023.06.24;Huawei HiSilicon Kirin 710A;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.1""";1920 x 1200;IPS
+MediaMarkt;HUAWEI;T10s 10.1;1049;2023.06.24;Huawei HiSilicon Kirin 710A;4 GB;EMUI 10.1 (oparty na systemie Android 10);"10.1""";1920 x 1200;IPS
+MediaMarkt;LENOVO;M10 HD;899;2023.06.24;MediaTek Helio P22T;4 GB;Android 10;"10.1""";1280 x 800;IPS
+MediaMarkt;HUAWEI;Pro 10.8;2797;2023.06.24;Huawei HiSilicon Kirin 990;6 GB;Android 10;"10.8""";2560 x 1600;IPS
+MediaMarkt;LENOVO;Tab 11;1499;2023.06.24;MediaTek Helio G90T;4 GB;Android 11;"11""";2000 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab A7 10.4 (2020);1299;2023.06.24;;3 GB;Android;"10.4""";2000 x 1200;TFT/TN
+MediaMarkt;SAMSUNG;Tab S8 Ultra;7899;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;16 GB;Android;"14.6""";2960 x 1848;Super AMOLED
+MediaMarkt;HUAWEI;M5 Lite 32GB LTE Szary;1147;2023.06.24;Huawei HiSilicon Kirin 659;3 GB;Android 8.0 Oreo;"10.1""";1920 x 1200;IPS
+MediaMarkt;HUAWEI;Paper 10.3 (2022) 4GB 64GB WiFi Czarny + Cover + M-Pencil;2299;2023.06.24;Huawei Kirin 820E;4 GB;HarmonyOS 2;"10.3""";1404 x 1872;E-Ink
+MediaMarkt;SAMSUNG;Tab S8;4539;2023.06.24;Qualcomm Snapdragon 8 Gen 1 SM8450;8 GB;Android;"11""";2560 x 1600;LTPS
+MediaMarkt;HUAWEI;M5 Lite 10.1;1147;2023.06.24;Huawei HiSilicon Kirin 659;4 GB;Android 8.0 Oreo;"10.1""";1920 x 1200;IPS
+MediaMarkt;SAMSUNG;Tab S5e 64GB LTE Czarny SM-T725NZKAXEO;2147;2023.06.24;Qualcomm Snapdragon 670;4 GB;Android 9.0 Pie;"10.5""";2560 x 1600;Super AMOLED
+MediaMarkt;SAMSUNG;Tab S6 Wi-Fi Niebieski SM-T860NZBAXEO;3097;2023.06.24;Qualcomm Snapdragon 855;6 GB;Android;"10.5""";2560 x 1600;Super AMOLED
+MediaMarkt;HUAWEI;T3 10 WiFi 32GB Szary;597;2023.06.24;Qualcomm MSM8917;2 GB;EMUI 8.0 (oparty na Android 8.0);"9.6""";1200 x 800;IPS
+MediaMarkt;SAMSUNG;Tab S7 WiFi Srebrny SM-T870NZSAEUE;3297;2023.06.24;Qualcomm Snapdragon 865+;6 GB;Android 10;"11""";2560 x 1600;LTPS
+MediaMarkt;TCL;Tab Max 10.36 (2022) Wi-Fi 4GB 64GB Szary (Space Grey);919;2023.06.24;MediaTek MT8788;4 GB;Android 10;"10.36""";2000 x 1200;IPS
+MediaMarkt;REALME;mini 8.7 (2022) Wi-Fi 4GB 64GB Szary;899;2023.06.24;Unisoc T616;4 GB;Android 11;;;
+MediaMarkt;Tablet;MatePad 11;1999;2023.06.24;Qualcomm Snapdragon 865;6 GB;HarmonyOS 2;"10.95""";2560 x 1600;IPS
